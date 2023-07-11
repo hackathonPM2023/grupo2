@@ -131,8 +131,7 @@
     "UserLocale": "es-ES"
   },
   "ScreenOrder": [
-    "Screen1",
-    "Registrarse",
-    "Logo"
+    "Logo",
+    "Registrarse"
   ]
 }
