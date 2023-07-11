@@ -97,7 +97,7 @@
       "zeroalltabindexes": false
     },
     "Author": "",
-    "BindingErrorCount": 2,
+    "BindingErrorCount": 1,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "Phone",
@@ -134,7 +134,7 @@
     "Logo",
     "crear cuenta",
     "Registrarse",
-    "Screen1",
+    "funciones",
     "Bienvenido"
   ]
 }
