@@ -1,26 +1,95 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "CreateAnAccount": 4,
+    "FunctionProcess": 5,
+    "Functions": 6,
+    "HomePage": 7,
+    "Host": 3,
+    "Image3": 9,
+    "Logo": 8,
+    "Register": 10,
+    "Welcome": 11
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 21:29:37",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "crear cuenta (1)": "0001.png",
+    "crear cuenta (2)": "0002.png",
+    "crear cuenta_1": "0003.png",
+    "ig story notification (1)": "0004.jpg",
+    "Softcuit": "0006.png",
+    "Softcuit (1)": "0005.png"
+  },
+  "LocalResourceRootPaths": {
+    "crear cuenta (1)": "https://docserverpwaprodeus.blob.core.windows.net/5717daac-4d77-4424-8d62-2e9e05c51f7d-1/resource/Assets0Images00001.png?sv=2018-03-28&sr=b&sig=HCvq%2Bpplc3lKoYkJbwBc8ojrgDy4I85wNLfl814ewbU%3D&spr=https&se=2023-07-12T21%3A44%3A17Z&sp=r",
+    "crear cuenta (2)": "https://docserverpwaprodeus.blob.core.windows.net/5717daac-4d77-4424-8d62-2e9e05c51f7d-1/resource/Assets0Images00002.png?sv=2018-03-28&sr=b&sig=cIoChDhWU6Ru%2BTHQciYWWK8QFnVO%2F9drboBJ7LKnk10%3D&spr=https&se=2023-07-12T21%3A44%3A17Z&sp=r",
+    "crear cuenta_1": "https://docserverpwaprodeus.blob.core.windows.net/5717daac-4d77-4424-8d62-2e9e05c51f7d-1/resource/Assets0Images00003.png?sv=2018-03-28&sr=b&sig=c%2FMp6fWIxpTmTC8ZDqv2%2BA3udiEF9ILX%2FBIBXzzDJDA%3D&spr=https&se=2023-07-12T21%3A44%3A17Z&sp=r",
+    "ig story notification (1)": "https://docserverpwaprodeus.blob.core.windows.net/5717daac-4d77-4424-8d62-2e9e05c51f7d-1/resource/Assets0Images00004.jpg?sv=2018-03-28&sr=b&sig=XJpENXQJGdWKSf5eZICgLE%2B9Xx9XDjKgo%2Btg1qJkkKI%3D&spr=https&se=2023-07-12T21%3A44%3A17Z&sp=r",
+    "Softcuit": "https://docserverpwaprodeus.blob.core.windows.net/5717daac-4d77-4424-8d62-2e9e05c51f7d-1/resource/Assets0Images00006.png?sv=2018-03-28&sr=b&sig=aqexSvsSmMw0XjQUC8gLq4GIRL14pzYKBOHXAbIIRmc%3D&spr=https&se=2023-07-12T21%3A44%3A17Z&sp=r",
+    "Softcuit (1)": "https://docserverpwaprodeus.blob.core.windows.net/5717daac-4d77-4424-8d62-2e9e05c51f7d-1/resource/Assets0Images00005.png?sv=2018-03-28&sr=b&sig=lZZmHvWQwe%2BLvQX3BNBHsPdpr4Wt0UKBhchxVoEE9To%3D&spr=https&se=2023-07-12T21%3A44%3A17Z&sp=r"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 0
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OrderXMLTemplate": {
+    "image": 0
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "CreateAnAccount": {},
+    "FunctionProcess": {},
+    "Functions": {},
+    "HomePage": {},
+    "Host": {},
+    "Image3": {},
+    "Logo": {},
+    "Register": {},
+    "Welcome": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "CreateAnAccount": 3,
+    "FunctionProcess": 4,
+    "Functions": 5,
+    "HomePage": 6,
+    "Host": 0,
+    "Image3": 8,
+    "Logo": 7,
+    "Register": 9,
+    "Welcome": 10
+  },
+  "ResourcesJsonIndices": {
+    "Image-crear cuenta (1)": 1,
+    "Image-crear cuenta (2)": 2,
+    "Image-crear cuenta_1": 3,
+    "Image-ig story notification (1)": 4,
+    "Image-SampleImage": 0,
+    "Image-Softcuit": 6,
+    "Image-Softcuit (1)": 5
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0135644,
+    "ControlCount": {
+      "image": 1,
+      "screen": 7
+    },
+    "DeserializationLoadTime": 0.2763884
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
