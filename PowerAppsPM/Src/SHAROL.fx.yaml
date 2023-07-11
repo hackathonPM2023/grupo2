@@ -1,11 +1,19 @@
 SHAROL As screen:
 
+    Image8 As image:
+        Height: =726
+        Image: ='Softcuit (1)_1'
+        Width: =624
+        X: =13
+        Y: =410
+        ZIndex: =1
+
     Image5 As image:
         Height: =876
         Image: ='crear cuenta (2)'
         Width: =463
-        X: =118
-        ZIndex: =1
+        X: =122
+        ZIndex: =2
 
     Label3 As label:
         Align: =Align.Center
@@ -18,5 +26,5 @@ SHAROL As screen:
         Width: =303
         X: =174
         Y: =322
-        ZIndex: =2
+        ZIndex: =3
 
