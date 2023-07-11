@@ -131,13 +131,13 @@
     "UserLocale": "es-ES"
   },
   "ScreenOrder": [
-    "CreateAnAccount",
     "Logo",
+    "CreateAnAccount",
+    "Register",
     "funciones",
+    "Welcome",
     "FunctionProcess",
     "Functions",
-    "HomePage",
-    "Register",
-    "Welcome"
+    "HomePage"
   ]
 }
