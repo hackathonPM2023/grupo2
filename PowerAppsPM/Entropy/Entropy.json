@@ -1,26 +1,67 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "crear cuenta": 4,
+    "Host": 3,
+    "Image1": 7,
+    "Logo": 5,
+    "Registrarse": 6
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:47:45",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "Softcuit": "0836508e-853b-47bd-9800-d846fdd865c4.jpg"
+  },
+  "LocalResourceRootPaths": {
+    "Softcuit": "https://docserverpwaprodeus.blob.core.windows.net/23cec1b5-c47e-44a9-9fd4-7ba1132a814a-1/resource/37b2921d-525e-4b76-acba-b1712c444b61.jpg?sv=2018-03-28&sr=b&sig=5jP055Tqgwf15SicvTAMqNfRsFkIDmEPkNtkoL6F14s%3D&spr=https&se=2023-07-12T19%3A53%3A24Z&sp=r"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 0
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OrderXMLTemplate": {
+    "image": 0
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "crear cuenta": {},
+    "Host": {},
+    "Image1": {},
+    "Logo": {},
+    "Registrarse": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "crear cuenta": 3,
+    "Host": 0,
+    "Image1": 0,
+    "Logo": 4,
+    "Registrarse": 5
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0,
+    "Image-Softcuit": 1
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0054873,
+    "ControlCount": {
+      "screen": 3
+    },
+    "DeserializationLoadTime": 0.1043268
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
