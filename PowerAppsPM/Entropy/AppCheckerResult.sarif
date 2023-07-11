@@ -10,7 +10,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -22,7 +22,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -34,7 +34,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -46,7 +46,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -58,7 +58,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -70,7 +70,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -82,7 +82,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -94,7 +94,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -106,7 +106,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -118,7 +118,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -130,7 +130,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -142,7 +142,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -154,7 +154,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -166,7 +166,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -178,7 +178,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -190,7 +190,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -202,7 +202,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -214,7 +214,7 @@
             {
               "associatedRule": {
                 "id": "app-InefficientDelayLoading",
-                "index": 2
+                "index": 1
               },
               "descriptor": {
                 "id": "app-InefficientDelayLoading"
@@ -232,39 +232,29 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Bienvenido.Image1.Image"
+                  "fullyQualifiedName": "App.candado"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Bienvenido.Image1.Image",
+                  "fullyQualifiedName": "App.candado",
                   "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 8,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "Softcuit"
-                  }
                 }
               },
               "properties": {
-                "member": "Image",
-                "module": "Bienvenido",
-                "type": "Bienvenido.Image1"
+                "member": "candado",
+                "module": "App",
+                "type": "App"
               }
             }
           ],
           "message": {
-            "arguments": [
-              "Softcuit"
-            ],
             "id": "issue"
           },
           "properties": {
-            "level": "High"
+            "level": "Medium"
           },
-          "ruleId": "app-ErrInvalidName",
+          "ruleId": "app-UnusedMediaResources",
           "ruleIndex": 0
         },
         {
@@ -272,39 +262,29 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Registrarse.Image2.Image"
+                  "fullyQualifiedName": "App.crear cuenta (1)"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Registrarse.Image2.Image",
+                  "fullyQualifiedName": "App.crear cuenta (1)",
                   "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 8,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "Softcuit"
-                  }
                 }
               },
               "properties": {
-                "member": "Image",
-                "module": "Registrarse",
-                "type": "Registrarse.Image2"
+                "member": "crear cuenta (1)",
+                "module": "App",
+                "type": "App"
               }
             }
           ],
           "message": {
-            "arguments": [
-              "Softcuit"
-            ],
             "id": "issue"
           },
           "properties": {
-            "level": "High"
+            "level": "Medium"
           },
-          "ruleId": "app-ErrInvalidName",
+          "ruleId": "app-UnusedMediaResources",
           "ruleIndex": 0
         },
         {
@@ -312,19 +292,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Registrarse.TextInput1.AccessibleLabel"
+                  "fullyQualifiedName": "App.crear cuenta (2)"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Registrarse.TextInput1.AccessibleLabel",
+                  "fullyQualifiedName": "App.crear cuenta (2)",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "AccessibleLabel",
-                "module": "Registrarse",
-                "type": "Registrarse.TextInput1"
+                "member": "crear cuenta (2)",
+                "module": "App",
+                "type": "App"
               }
             }
           ],
@@ -334,27 +314,27 @@
           "properties": {
             "level": "Medium"
           },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 0
         },
         {
           "locations": [
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Registrarse.TextInput1_3.AccessibleLabel"
+                  "fullyQualifiedName": "App.Softcuit (1)"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Registrarse.TextInput1_3.AccessibleLabel",
+                  "fullyQualifiedName": "App.Softcuit (1)",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "AccessibleLabel",
-                "module": "Registrarse",
-                "type": "Registrarse.TextInput1_3"
+                "member": "Softcuit (1)",
+                "module": "App",
+                "type": "App"
               }
             }
           ],
@@ -364,27 +344,27 @@
           "properties": {
             "level": "Medium"
           },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 0
         },
         {
           "locations": [
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Registrarse.TextInput1_1.AccessibleLabel"
+                  "fullyQualifiedName": "App.Softcuit (1)_1"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Registrarse.TextInput1_1.AccessibleLabel",
+                  "fullyQualifiedName": "App.Softcuit (1)_1",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "AccessibleLabel",
-                "module": "Registrarse",
-                "type": "Registrarse.TextInput1_1"
+                "member": "Softcuit (1)_1",
+                "module": "App",
+                "type": "App"
               }
             }
           ],
@@ -394,27 +374,27 @@
           "properties": {
             "level": "Medium"
           },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 0
         },
         {
           "locations": [
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Registrarse.TextInput1_2.AccessibleLabel"
+                  "fullyQualifiedName": "App.Softcuit"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Registrarse.TextInput1_2.AccessibleLabel",
+                  "fullyQualifiedName": "App.Softcuit",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "AccessibleLabel",
-                "module": "Registrarse",
-                "type": "Registrarse.TextInput1_2"
+                "member": "Softcuit",
+                "module": "App",
+                "type": "App"
               }
             }
           ],
@@ -424,8 +404,38 @@
           "properties": {
             "level": "Medium"
           },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "App.ubicacion"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.ubicacion",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "ubicacion",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 0
         }
       ],
       "tool": {
@@ -434,37 +444,20 @@
           "name": "PowerApps app checker",
           "rules": [
             {
-              "id": "app-ErrInvalidName",
+              "id": "app-UnusedMediaResources",
               "messageStrings": {
                 "issue": {
-                  "text": "Name isn't valid. '{0}' isn't recognized."
+                  "text": "Archivos multimedia sin usar"
                 }
               },
               "properties": {
                 "componentType": "app",
                 "howToFix": [
-                  "Remove or correct the reference to the name that isn't valid."
-                ],
-                "level": "High",
-                "primaryCategory": "formula",
-                "whyFix": ""
-              }
-            },
-            {
-              "id": "acc-AccessibleLabelNeeded",
-              "messageStrings": {
-                "issue": {
-                  "text": "Missing accessible label"
-                }
-              },
-              "properties": {
-                "componentType": "app",
-                "howToFix": [
-                  "Edit the accessible label property to describe the item."
+                  "Quite el archivo multimedia que no se use en el panel Medios."
                 ],
                 "level": "Medium",
-                "primaryCategory": "accessibility",
-                "whyFix": "If there's no accessible text, people who can’t see the screen won't understand what’s in images and controls."
+                "primaryCategory": "performance",
+                "whyFix": "No hay ninguna fórmula de control que haga referencia a este archivo multimedia, por lo que no es necesario. Si se quita, mejorará el rendimiento."
               }
             },
             {
