@@ -2,6 +2,21 @@ Bienvenido As screen:
     BackgroundImage: =
     Fill: =RGBA(0, 0, 0, 0)
 
+    Image6 As image:
+        Height: =1136
+        Image: ='crear cuenta_1'
+        ImagePosition: =ImagePosition.Fill
+        Width: =640
+        ZIndex: =1
+
+    Image7 As image:
+        Height: =432
+        Image: ='Softcuit (1)'
+        Width: =536
+        X: =52
+        Y: =196
+        ZIndex: =2
+
     Button2 As button:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =4
@@ -19,9 +34,9 @@ Bienvenido As screen:
         Size: =24
         Text: ="Functions"
         Width: =408
-        X: =123
-        Y: =591
-        ZIndex: =5
+        X: =122
+        Y: =606
+        ZIndex: =3
 
     Button2_1 As button:
         BorderColor: =RGBA(0, 0, 0, 1)
@@ -40,9 +55,9 @@ Bienvenido As screen:
         Size: =24
         Text: ="Complete package"
         Width: =408
-        X: =124
-        Y: =705
-        ZIndex: =6
+        X: =116
+        Y: =714
+        ZIndex: =4
 
     Label1 As label:
         Align: =Align.Center
@@ -55,5 +70,5 @@ Bienvenido As screen:
         Width: =483
         X: =85
         Y: =17
-        ZIndex: =7
+        ZIndex: =5
 
