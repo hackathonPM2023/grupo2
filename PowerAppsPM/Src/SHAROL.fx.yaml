@@ -4,19 +4,19 @@ SHAROL As screen:
         Height: =876
         Image: ='crear cuenta (2)'
         Width: =463
-        X: =114
+        X: =118
         ZIndex: =1
 
     Label3 As label:
         Align: =Align.Center
         FontWeight: =FontWeight.Bold
-        Height: =119
-        Size: =30
+        Height: =165
+        Size: =40
         Text: |-
             ="VPN
              location"
-        Width: =190
-        X: =214
-        Y: =366
+        Width: =303
+        X: =174
+        Y: =322
         ZIndex: =2
 
