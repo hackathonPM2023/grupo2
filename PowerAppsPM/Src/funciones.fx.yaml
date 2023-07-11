@@ -50,18 +50,3 @@ funciones As screen:
         Y: =308
         ZIndex: =9
 
-    Image6 As image:
-        Image: =ubicacion
-        Width: =130
-        X: =52
-        Y: =131
-        ZIndex: =10
-
-    Image7 As image:
-        Height: =116
-        Image: =candado
-        Width: =103
-        X: =276
-        Y: =115
-        ZIndex: =11
-
