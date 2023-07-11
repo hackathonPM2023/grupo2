@@ -113,7 +113,7 @@
     "Id": "7930e302-82a1-4800-80d6-acf3cad461ed",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "SoftCuit",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
@@ -131,6 +131,6 @@
     "UserLocale": "es-ES"
   },
   "ScreenOrder": [
-    "Screen1"
+    "Logo"
   ]
 }
