@@ -1,71 +1,26 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "crear cuenta": 4,
-    "Host": 3,
-    "Image1": 6,
-    "Image2": 8,
-    "Logo": 5,
-    "Registrarse": 7
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:48:12",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {
-    "Softcuit": "0001.jpg"
-  },
-  "LocalResourceRootPaths": {
-    "Softcuit": "https://docserverpwaprodeus.blob.core.windows.net/23cec1b5-c47e-44a9-9fd4-7ba1132a814a-1/resource/Assets0Images00001.jpg?sv=2018-03-28&sr=b&sig=ziaOEmVahe90OOZx1RQ4GWqhU2ypou3gemxFSrhGFHQ%3D&spr=https&se=2023-07-12T20%3A02%3A47Z&sp=r"
-  },
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {
-    "CustomGallerySample": 0
-  },
+  "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "image": 0
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "crear cuenta": {},
-    "Host": {},
-    "Image1": {},
-    "Image2": {},
-    "Logo": {},
-    "Registrarse": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "crear cuenta": 3,
-    "Host": 0,
-    "Image1": 5,
-    "Image2": 7,
-    "Logo": 4,
-    "Registrarse": 6
-  },
-  "ResourcesJsonIndices": {
-    "Image-SampleImage": 0,
-    "Image-Softcuit": 1
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.00815,
-    "ControlCount": {
-      "image": 2,
-      "screen": 3
-    },
-    "DeserializationLoadTime": 0.1631375
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }
