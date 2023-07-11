@@ -97,7 +97,7 @@
       "zeroalltabindexes": false
     },
     "Author": "",
-    "BindingErrorCount": 0,
+    "BindingErrorCount": 1,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "Phone",
@@ -134,9 +134,13 @@
     "Logo",
     "crear cuenta",
     "Registrarse",
+    "funciones",
     "Bienvenido",
-    "Screen1",
-    "SHAROL",
-    "Screen2"
+    "CreateAnAccount",
+    "FunctionProcess",
+    "Functions",
+    "HomePage",
+    "Register",
+    "Welcome"
   ]
 }
