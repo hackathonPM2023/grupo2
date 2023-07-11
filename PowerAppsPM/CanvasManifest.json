@@ -132,7 +132,7 @@
   },
   "ScreenOrder": [
     "Logo",
-    "Registrarse",
-    "crear cuenta"
+    "crear cuenta",
+    "Registrarse"
   ]
 }
