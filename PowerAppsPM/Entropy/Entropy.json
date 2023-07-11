@@ -1,26 +1,103 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Bienvenido": 13,
+    "Button1": 12,
+    "Button2": 18,
+    "Button2_1": 19,
+    "crear cuenta": 4,
+    "Host": 3,
+    "Image1": 17,
+    "Image2": 7,
+    "Label1": 16,
+    "Logo": 5,
+    "Registrarse": 6,
+    "TextInput1": 8,
+    "TextInput1_1": 10,
+    "TextInput1_2": 11,
+    "TextInput1_3": 9
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 20:42:35",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "Softcuit": "0001.png"
+  },
+  "LocalResourceRootPaths": {
+    "Softcuit": "https://docserverpwaprodeus.blob.core.windows.net/5717daac-4d77-4424-8d62-2e9e05c51f7d-1/resource/Assets0Images00001.png?sv=2018-03-28&sr=b&sig=wZ%2FxK7LffR%2FX6FRk0xIs4xSbCFb35DHXW2TDSsxEFC8%3D&spr=https&se=2023-07-12T20%3A11%3A25Z&sp=r"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 0
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OrderXMLTemplate": {
+    "button": 2,
+    "image": 0,
+    "label": 3,
+    "text": 1
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Bienvenido": {},
+    "Button1": {},
+    "Button2": {},
+    "Button2_1": {},
+    "crear cuenta": {},
+    "Host": {},
+    "Image1": {},
+    "Image2": {},
+    "Label1": {},
+    "Logo": {},
+    "Registrarse": {},
+    "TextInput1": {},
+    "TextInput1_1": {},
+    "TextInput1_2": {},
+    "TextInput1_3": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Bienvenido": 0,
+    "Button1": 5,
+    "Button2": 8,
+    "Button2_1": 9,
+    "crear cuenta": 3,
+    "Host": 0,
+    "Image1": 7,
+    "Image2": 0,
+    "Label1": 6,
+    "Logo": 4,
+    "Registrarse": 5,
+    "TextInput1": 1,
+    "TextInput1_1": 3,
+    "TextInput1_2": 4,
+    "TextInput1_3": 2
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0,
+    "Image-Softcuit": 1
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0151978,
+    "ControlCount": {
+      "button": 2,
+      "image": 1,
+      "screen": 3,
+      "text": 4
+    },
+    "DeserializationLoadTime": 0.7456496
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
