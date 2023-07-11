@@ -41,8 +41,8 @@ Registrarse As screen:
         Height: =70
         Size: =21
         Width: =560
-        X: =35
-        Y: =609
+        X: =40
+        Y: =607
         ZIndex: =5
 
     TextInput1_3 As text:
@@ -51,8 +51,8 @@ Registrarse As screen:
         Height: =70
         Size: =21
         Width: =560
-        X: =40
-        Y: =410
+        X: =35
+        Y: =394
         ZIndex: =6
 
     Button1 As button:
