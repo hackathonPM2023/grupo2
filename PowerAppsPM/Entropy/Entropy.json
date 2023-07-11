@@ -1,79 +1,26 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "crear cuenta": 4,
-    "Host": 3,
-    "Image2": 8,
-    "Image3": 10,
-    "Logo": 5,
-    "Registrarse": 7,
-    "TextInput1": 9
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 20:05:30",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {
-    "ig story notification (1)": "02c86423-8c90-4ed5-88c9-dee055fc5014.jpg",
-    "Softcuit": "756bd707-9cf1-4cee-a585-d02471554fb2.jpg"
-  },
-  "LocalResourceRootPaths": {
-    "ig story notification (1)": "https://docserverpwaprodeus.blob.core.windows.net/23cec1b5-c47e-44a9-9fd4-7ba1132a814a-1/resource/b382df87-3558-45d8-87d1-ef522d9bed10.jpg?sv=2018-03-28&sr=b&sig=EmcOklXQeSoToDnzoE3CzRI5B6wxAW%2FAPP7NIxgvbKE%3D&spr=https&se=2023-07-12T20%3A19%3A23Z&sp=r",
-    "Softcuit": "https://docserverpwaprodeus.blob.core.windows.net/23cec1b5-c47e-44a9-9fd4-7ba1132a814a-1/resource/326b3da1-5f7b-4627-9f07-1fc9cbd071ac.jpg?sv=2018-03-28&sr=b&sig=ItAfpuIcWer0Vzx984xpE07KsfpRd2SKzT6DJwo1MZE%3D&spr=https&se=2023-07-12T20%3A06%3A41Z&sp=r"
-  },
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {
-    "CustomGallerySample": 0
-  },
+  "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "image": 0,
-    "text": 1
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "crear cuenta": {},
-    "Host": {},
-    "Image2": {},
-    "Image3": {},
-    "Logo": {},
-    "Registrarse": {},
-    "TextInput1": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "crear cuenta": 3,
-    "Host": 0,
-    "Image2": 7,
-    "Image3": 0,
-    "Logo": 4,
-    "Registrarse": 6,
-    "TextInput1": 8
-  },
-  "ResourcesJsonIndices": {
-    "Image-ig story notification (1)": 2,
-    "Image-SampleImage": 0,
-    "Image-Softcuit": 1
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0117367,
-    "ControlCount": {
-      "image": 2,
-      "screen": 3,
-      "text": 1
-    },
-    "DeserializationLoadTime": 0.0872603
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }
