@@ -2,10 +2,3 @@ Logo As screen:
     BackgroundImage: =Softcuit
     Fill: =RGBA(160, 113, 255, 1)
 
-    Image1 As image:
-        AutoDisableOnSelect: =false
-        Height: =1136
-        Image: =Softcuit
-        Width: =640
-        ZIndex: =1
-
