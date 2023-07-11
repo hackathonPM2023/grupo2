@@ -1,9 +1,17 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "crear cuenta": 4,
+    "Host": 3,
+    "Image1": 7,
+    "Logo": 5,
+    "Registrarse": 6
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 20:30:27",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -15,12 +23,38 @@
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OrderXMLTemplate": {
+    "image": 0
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "crear cuenta": {},
+    "Host": {},
+    "Image1": {},
+    "Logo": {},
+    "Registrarse": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "crear cuenta": 3,
+    "Host": 0,
+    "Image1": 0,
+    "Logo": 4,
+    "Registrarse": 5
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0112546,
+    "ControlCount": {
+      "screen": 3
+    },
+    "DeserializationLoadTime": 0.0736195
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
