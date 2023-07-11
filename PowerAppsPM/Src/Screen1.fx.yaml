@@ -1,11 +1,2 @@
 Screen1 As screen:
 
-    Button8 As button:
-        Height: =94
-        Size: =24
-        Text: ="Botón"
-        Width: =189
-        X: =30
-        Y: =178
-        ZIndex: =2
-
