@@ -1,0 +1,52 @@
+funciones As screen:
+    BackgroundImage: ='crear cuenta_1'
+
+    Circle1 As circle:
+        Height: =134
+        Width: =132
+        X: =52
+        Y: =114
+        ZIndex: =3
+
+    Circle1_1 As circle:
+        Height: =134
+        Width: =132
+        X: =262
+        Y: =114
+        ZIndex: =4
+
+    Circle1_2 As circle:
+        Height: =134
+        Width: =132
+        X: =52
+        Y: =305
+        ZIndex: =5
+
+    Circle1_3 As circle:
+        Height: =134
+        Width: =132
+        X: =458
+        Y: =114
+        ZIndex: =6
+
+    Circle1_4 As circle:
+        Height: =134
+        Width: =132
+        X: =262
+        Y: =308
+        ZIndex: =7
+
+    Circle1_5 As circle:
+        Height: =134
+        Width: =132
+        X: =52
+        Y: =514
+        ZIndex: =8
+
+    Circle1_6 As circle:
+        Height: =134
+        Width: =132
+        X: =458
+        Y: =308
+        ZIndex: =9
+
