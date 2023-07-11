@@ -1,3 +1,85 @@
 "'crear cuenta' As screen":
     BackgroundImage: ='crear cuenta_1'
 
+    Image1 As image:
+        Height: =378
+        Image: ='Softcuit (1)'
+        Width: =560
+        X: =40
+        ZIndex: =1
+
+    TextInput2 As text:
+        Align: =Align.Center
+        Default: ="Entrada de texto"
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Bold
+        Height: =63
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =30
+        Width: =601
+        X: =19
+        Y: =492
+        ZIndex: =2
+
+    TextInput4 As text:
+        Align: =Align.Center
+        Default: ="Entrada de texto"
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =30
+        Width: =600
+        X: =18
+        Y: =398
+        ZIndex: =3
+
+    Button4 As button:
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =70
+        Size: =24
+        Text: ="forgot your password?"
+        Width: =463
+        X: =87
+        Y: =579
+        ZIndex: =4
+
+    TextInput2_1 As text:
+        Align: =Align.Center
+        Default: ="Entrada de texto"
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =30
+        Width: =447
+        X: =103
+        Y: =742
+        ZIndex: =5
+
+    TextInput2_2 As text:
+        Align: =Align.Center
+        Default: ="Entrada de texto"
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Bold
+        Height: =71
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =30
+        Width: =448
+        X: =94
+        Y: =850
+        ZIndex: =6
+

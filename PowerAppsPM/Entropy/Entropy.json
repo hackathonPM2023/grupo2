@@ -1,113 +1,26 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Bienvenido": 4,
-    "Button1": 18,
-    "Button2": 7,
-    "Button2_1": 23,
-    "crear cuenta": 9,
-    "Host": 3,
-    "Image1": 6,
-    "Image2": 13,
-    "Image3": 11,
-    "Label1": 24,
-    "Logo": 10,
-    "Registrarse": 12,
-    "TextInput1": 14,
-    "TextInput1_1": 16,
-    "TextInput1_2": 17,
-    "TextInput1_3": 15
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 21:13:41",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {
-    "crear cuenta_1": "0001.png",
-    "ig story notification (1)": "0002.jpg",
-    "Softcuit": "b29168e1-d516-4e69-b80b-d7b375a0217d.png"
-  },
-  "LocalResourceRootPaths": {
-    "crear cuenta_1": "https://docserverpwaprodeus.blob.core.windows.net/5717daac-4d77-4424-8d62-2e9e05c51f7d-1/resource/Assets0Images00001.png?sv=2018-03-28&sr=b&sig=x36yPUOCyTq8%2FQm%2BwLzhpTHQr68m9fR128Z2I4vDZDc%3D&spr=https&se=2023-07-12T20%3A57%3A38Z&sp=r",
-    "ig story notification (1)": "https://docserverpwaprodeus.blob.core.windows.net/5717daac-4d77-4424-8d62-2e9e05c51f7d-1/resource/Assets0Images00002.jpg?sv=2018-03-28&sr=b&sig=WT9qm25Ji2ZUzjfDRfDtj56uP4Hwtq77MC2JpQQTOPI%3D&spr=https&se=2023-07-12T20%3A57%3A38Z&sp=r",
-    "Softcuit": "https://docserverpwaprodeus.blob.core.windows.net/5717daac-4d77-4424-8d62-2e9e05c51f7d-1/resource/fe3c95af-b0d3-4088-ac64-2b295d05348b.png?sv=2018-03-28&sr=b&sig=wzvUiMdGbNHDrMip6MFmuhOj88oM72huULwsTSbvHKE%3D&spr=https&se=2023-07-12T20%3A58%3A47Z&sp=r"
-  },
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {
-    "CustomGallerySample": 0
-  },
+  "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "button": 2,
-    "image": 1,
-    "label": 0,
-    "text": 3
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "Bienvenido": {},
-    "Button1": {},
-    "Button2": {},
-    "Button2_1": {},
-    "crear cuenta": {},
-    "Host": {},
-    "Image1": {},
-    "Image2": {},
-    "Image3": {},
-    "Label1": {},
-    "Logo": {},
-    "Registrarse": {},
-    "TextInput1": {},
-    "TextInput1_1": {},
-    "TextInput1_2": {},
-    "TextInput1_3": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "Bienvenido": 3,
-    "Button1": 6,
-    "Button2": 9,
-    "Button2_1": 10,
-    "crear cuenta": 8,
-    "Host": 0,
-    "Image1": 8,
-    "Image2": 1,
-    "Image3": 0,
-    "Label1": 7,
-    "Logo": 9,
-    "Registrarse": 11,
-    "TextInput1": 2,
-    "TextInput1_1": 4,
-    "TextInput1_2": 5,
-    "TextInput1_3": 3
-  },
-  "ResourcesJsonIndices": {
-    "Image-crear cuenta_1": 1,
-    "Image-ig story notification (1)": 2,
-    "Image-SampleImage": 0,
-    "Image-Softcuit": 3
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0321432,
-    "ControlCount": {
-      "button": 7,
-      "image": 3,
-      "label": 1,
-      "screen": 4,
-      "text": 4
-    },
-    "DeserializationLoadTime": 0.2658233
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }

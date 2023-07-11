@@ -1,14 +1,6 @@
 Bienvenido As screen:
     Fill: =RGBA(0, 0, 0, 0)
 
-    Image1 As image:
-        Height: =379
-        Image: =Softcuit
-        Width: =471
-        X: =91
-        Y: =212
-        ZIndex: =4
-
     Button2 As button:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =4
