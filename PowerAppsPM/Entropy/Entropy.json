@@ -1,70 +1,26 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "crear cuenta": 4,
-    "Host": 3,
-    "Image2": 8,
-    "Logo": 5,
-    "Registrarse": 6,
-    "TextInput1": 9
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:47:58",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {
-    "Softcuit": "4dd96d8a-a29a-4980-88d4-8aad714d93d1.png"
-  },
-  "LocalResourceRootPaths": {
-    "Softcuit": "https://docserverpwaprodeus.blob.core.windows.net/5717daac-4d77-4424-8d62-2e9e05c51f7d-1/resource/756f7cf0-10b3-4642-b527-15400f9d87ab.png?sv=2018-03-28&sr=b&sig=I5mNzskX%2Bt%2FVYdlIJnqa78hVUtIlHeVyh6kd%2F5KLcuc%3D&spr=https&se=2023-07-12T19%3A59%3A37Z&sp=r"
-  },
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "image": 0,
-    "text": 1
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "crear cuenta": {},
-    "Host": {},
-    "Image2": {},
-    "Logo": {},
-    "Registrarse": {},
-    "TextInput1": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "crear cuenta": 3,
-    "Host": 0,
-    "Image2": 0,
-    "Logo": 4,
-    "Registrarse": 5,
-    "TextInput1": 0
-  },
-  "ResourcesJsonIndices": {
-    "Image-SampleImage": 0,
-    "Image-Softcuit": 1
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0053582,
-    "ControlCount": {
-      "screen": 3,
-      "text": 1
-    },
-    "DeserializationLoadTime": 0.2425489
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }
