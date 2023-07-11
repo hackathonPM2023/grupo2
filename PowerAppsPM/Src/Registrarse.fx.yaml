@@ -55,7 +55,7 @@ Registrarse As screen:
         Font: =Font.'Dancing Script'
         Height: =105
         Size: =60
-        Text: ="Registrarse"
+        Text: ="Sign up"
         Width: =395
         X: =118
         Y: =766
