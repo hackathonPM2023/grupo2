@@ -342,6 +342,30 @@
               "message": {
                 "text": "Error al ejecutar la regla app-InefficientDelayLoading."
               }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 2
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Error al ejecutar la regla app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 2
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Error al ejecutar la regla app-InefficientDelayLoading."
+              }
             }
           ]
         }
@@ -352,19 +376,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'crear cuenta'.TextInput2.AccessibleLabel"
+                  "fullyQualifiedName": "CreateAnAccount.TextInput4.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'crear cuenta'.TextInput2.AccessibleLabel",
+                  "fullyQualifiedName": "CreateAnAccount.TextInput4.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "crear cuenta",
-                "type": "'crear cuenta'.TextInput2"
+                "module": "CreateAnAccount",
+                "type": "CreateAnAccount.TextInput4"
               }
             }
           ],
@@ -382,19 +406,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'crear cuenta'.TextInput4.AccessibleLabel"
+                  "fullyQualifiedName": "CreateAnAccount.TextInput2.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'crear cuenta'.TextInput4.AccessibleLabel",
+                  "fullyQualifiedName": "CreateAnAccount.TextInput2.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "crear cuenta",
-                "type": "'crear cuenta'.TextInput4"
+                "module": "CreateAnAccount",
+                "type": "CreateAnAccount.TextInput2"
               }
             }
           ],
@@ -412,19 +436,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'crear cuenta'.TextInput2_1.AccessibleLabel"
+                  "fullyQualifiedName": "CreateAnAccount.TextInput2_1.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'crear cuenta'.TextInput2_1.AccessibleLabel",
+                  "fullyQualifiedName": "CreateAnAccount.TextInput2_1.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "crear cuenta",
-                "type": "'crear cuenta'.TextInput2_1"
+                "module": "CreateAnAccount",
+                "type": "CreateAnAccount.TextInput2_1"
               }
             }
           ],
@@ -442,19 +466,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'crear cuenta'.TextInput2_2.AccessibleLabel"
+                  "fullyQualifiedName": "CreateAnAccount.TextInput2_2.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'crear cuenta'.TextInput2_2.AccessibleLabel",
+                  "fullyQualifiedName": "CreateAnAccount.TextInput2_2.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "crear cuenta",
-                "type": "'crear cuenta'.TextInput2_2"
+                "module": "CreateAnAccount",
+                "type": "CreateAnAccount.TextInput2_2"
               }
             }
           ],
@@ -472,19 +496,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Registrarse.TextInput1.AccessibleLabel"
+                  "fullyQualifiedName": "Register.TextInput1.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Registrarse.TextInput1.AccessibleLabel",
+                  "fullyQualifiedName": "Register.TextInput1.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Registrarse",
-                "type": "Registrarse.TextInput1"
+                "module": "Register",
+                "type": "Register.TextInput1"
               }
             }
           ],
@@ -502,19 +526,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Registrarse.TextInput1_3.AccessibleLabel"
+                  "fullyQualifiedName": "Register.TextInput1_3.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Registrarse.TextInput1_3.AccessibleLabel",
+                  "fullyQualifiedName": "Register.TextInput1_3.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Registrarse",
-                "type": "Registrarse.TextInput1_3"
+                "module": "Register",
+                "type": "Register.TextInput1_3"
               }
             }
           ],
@@ -532,19 +556,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Registrarse.TextInput1_1.AccessibleLabel"
+                  "fullyQualifiedName": "Register.TextInput1_1.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Registrarse.TextInput1_1.AccessibleLabel",
+                  "fullyQualifiedName": "Register.TextInput1_1.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Registrarse",
-                "type": "Registrarse.TextInput1_1"
+                "module": "Register",
+                "type": "Register.TextInput1_1"
               }
             }
           ],
@@ -562,19 +586,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Registrarse.TextInput1_2.AccessibleLabel"
+                  "fullyQualifiedName": "Register.TextInput1_2.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Registrarse.TextInput1_2.AccessibleLabel",
+                  "fullyQualifiedName": "Register.TextInput1_2.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Registrarse",
-                "type": "Registrarse.TextInput1_2"
+                "module": "Register",
+                "type": "Register.TextInput1_2"
               }
             }
           ],
@@ -592,18 +616,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Screen1"
+                  "fullyQualifiedName": "App.crear cuenta (1)"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Screen1",
+                  "fullyQualifiedName": "App.crear cuenta (1)",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "module": "Screen1",
-                "type": "Screen1"
+                "member": "crear cuenta (1)",
+                "module": "App",
+                "type": "App"
               }
             }
           ],
@@ -611,9 +636,9 @@
             "id": "issue"
           },
           "properties": {
-            "level": "Low"
+            "level": "Medium"
           },
-          "ruleId": "acc-ReadableScreenNameNeeded",
+          "ruleId": "app-UnusedMediaResources",
           "ruleIndex": 1
         }
       ],
@@ -640,20 +665,20 @@
               }
             },
             {
-              "id": "acc-ReadableScreenNameNeeded",
+              "id": "app-UnusedMediaResources",
               "messageStrings": {
                 "issue": {
-                  "text": "Revise screen name"
+                  "text": "Archivos multimedia sin usar"
                 }
               },
               "properties": {
                 "componentType": "app",
                 "howToFix": [
-                  "Give the screen  a title that describes what's on the screen or what it's used for."
+                  "Quite el archivo multimedia que no se use en el panel Medios."
                 ],
-                "level": "Low",
-                "primaryCategory": "accessibility",
-                "whyFix": "People who are blind, have low vision, or a reading disability rely on screen titles to navigate using the screen reader. "
+                "level": "Medium",
+                "primaryCategory": "performance",
+                "whyFix": "No hay ninguna fórmula de control que haga referencia a este archivo multimedia, por lo que no es necesario. Si se quita, mejorará el rendimiento."
               }
             },
             {

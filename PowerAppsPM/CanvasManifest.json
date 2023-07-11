@@ -132,11 +132,11 @@
   },
   "ScreenOrder": [
     "Logo",
-    "crear cuenta",
-    "Registrarse",
-    "Bienvenido",
-    "Screen1",
-    "SHAROL",
-    "Screen2"
+    "CreateAnAccount",
+    "Register",
+    "Welcome",
+    "Functions",
+    "FunctionProcess",
+    "HomePage"
   ]
 }

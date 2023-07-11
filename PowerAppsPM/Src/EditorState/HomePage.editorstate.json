@@ -1,6 +1,6 @@
 {
   "ControlStates": {
-    "Screen2": {
+    "HomePage": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Fill",
@@ -20,7 +20,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Screen2",
+      "Name": "HomePage",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -69,5 +69,5 @@
       "Type": "ControlInfo"
     }
   },
-  "TopParentName": "Screen2"
+  "TopParentName": "HomePage"
 }

@@ -1,4 +1,4 @@
-"'crear cuenta' As screen":
+CreateAnAccount As screen:
     BackgroundImage: ='crear cuenta_1'
 
     Image1 As image:
