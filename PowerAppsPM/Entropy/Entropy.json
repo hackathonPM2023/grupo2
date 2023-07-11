@@ -1,26 +1,89 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 14,
+    "crear cuenta": 4,
+    "Host": 3,
+    "Image1": 6,
+    "Image2": 8,
+    "Logo": 5,
+    "Registrarse": 7,
+    "TextInput1": 9,
+    "TextInput1_1": 10,
+    "TextInput1_2": 11,
+    "TextInput1_3": 12
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:56:22",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "Softcuit": "79b4e72e-a414-48dd-a97d-59a4adba55d4.png"
+  },
+  "LocalResourceRootPaths": {
+    "Softcuit": "https://docserverpwaprodeus.blob.core.windows.net/5717daac-4d77-4424-8d62-2e9e05c51f7d-1/resource/3c3b66af-6e4b-429a-a01b-0b1c1cba7a6d.png?sv=2018-03-28&sr=b&sig=%2FZ%2F0wJ5k88IexLlGOoAdAumqyWm0Cs6Y4X286R0Ju6U%3D&spr=https&se=2023-07-12T20%3A03%3A49Z&sp=r"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 0
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OrderXMLTemplate": {
+    "button": 2,
+    "image": 0,
+    "text": 1
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Button1": {},
+    "crear cuenta": {},
+    "Host": {},
+    "Image1": {},
+    "Image2": {},
+    "Logo": {},
+    "Registrarse": {},
+    "TextInput1": {},
+    "TextInput1_1": {},
+    "TextInput1_2": {},
+    "TextInput1_3": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 6,
+    "crear cuenta": 3,
+    "Host": 0,
+    "Image1": 0,
+    "Image2": 1,
+    "Logo": 4,
+    "Registrarse": 6,
+    "TextInput1": 2,
+    "TextInput1_1": 4,
+    "TextInput1_2": 5,
+    "TextInput1_3": 3
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0,
+    "Image-Softcuit": 1
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0128342,
+    "ControlCount": {
+      "image": 2,
+      "screen": 3,
+      "text": 4
+    },
+    "DeserializationLoadTime": 0.1043558
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }

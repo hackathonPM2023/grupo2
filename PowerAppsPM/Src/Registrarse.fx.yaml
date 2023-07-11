@@ -2,11 +2,11 @@ Registrarse As screen:
     BackgroundImage: =
 
     Image2 As image:
-        Height: =264
+        Height: =290
         Image: =Softcuit
-        Width: =280
-        X: =176
-        Y: =55
+        Width: =317
+        X: =157
+        Y: =15
         ZIndex: =1
 
     TextInput1 As text:
@@ -16,6 +16,48 @@ Registrarse As screen:
         Size: =21
         Width: =560
         X: =36
-        Y: =384
+        Y: =293
         ZIndex: =2
+
+    TextInput1_1 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =35
+        Y: =496
+        ZIndex: =3
+
+    TextInput1_2 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =35
+        Y: =609
+        ZIndex: =4
+
+    TextInput1_3 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =36
+        Y: =390
+        ZIndex: =5
+
+    Button1 As button:
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Dancing Script'
+        Height: =105
+        Size: =60
+        Text: ="Registrarse"
+        Width: =395
+        X: =118
+        Y: =766
+        ZIndex: =7
 
