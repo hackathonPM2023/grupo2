@@ -1,2 +1,11 @@
 Registrarse As screen:
+    BackgroundImage: =
+
+    Image2 As image:
+        Height: =264
+        Image: =Softcuit
+        Width: =258
+        X: =87
+        Y: =42
+        ZIndex: =1
 
