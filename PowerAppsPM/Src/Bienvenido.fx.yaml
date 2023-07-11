@@ -1,61 +1,66 @@
 Bienvenido As screen:
-
-    Label1 As label:
-        Align: =Align.Center
-        Font: =Font.Georgia
-        Height: =215
-        Size: =50
-        Text: |-
-            ="
-            
-            Welcome!
-            to
-            
-            
-            "
-        Width: =560
-        X: =48
-        Y: =28
-        ZIndex: =3
+    Fill: =RGBA(0, 0, 0, 0)
 
     Image1 As image:
-        Height: =367
+        Height: =379
         Image: =Softcuit
-        Width: =440
-        X: =108
-        Y: =209
+        Width: =471
+        X: =91
+        Y: =212
         ZIndex: =4
 
     Button2 As button:
-        BorderThickness: =50
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =4
         Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(0, 0, 0, 1)
         DisabledFill: =RGBA(0, 13, 75, 1)
         Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Bold
         Height: =82
         RadiusBottomLeft: =50
         RadiusBottomRight: =50
         RadiusTopLeft: =50
         RadiusTopRight: =50
         Size: =24
-        Text: ="Funciones"
+        Text: ="Functions"
         Width: =408
         X: =123
         Y: =591
         ZIndex: =5
 
     Button2_1 As button:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =4
         Color: =RGBA(0, 0, 0, 1)
+        DisabledColor: =RGBA(0, 0, 0, 1)
+        DisabledFill: =RGBA(0, 13, 75, 1)
         Fill: =RGBA(0, 0, 0, 0)
-        Height: =89
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Bold
+        Height: =82
         RadiusBottomLeft: =50
         RadiusBottomRight: =50
         RadiusTopLeft: =50
         RadiusTopRight: =50
         Size: =24
-        Text: ="Paquete completo"
+        Text: ="Complete package"
         Width: =408
         X: =124
-        Y: =731
+        Y: =705
         ZIndex: =6
+
+    Label1 As label:
+        Align: =Align.Center
+        Font: =Font.'Patrick Hand'
+        Height: =224
+        Size: =75
+        Text: |-
+            ="Welcome!
+            to"
+        Width: =483
+        X: =85
+        Y: =17
+        ZIndex: =7
 
