@@ -4,8 +4,18 @@ Registrarse As screen:
     Image2 As image:
         Height: =264
         Image: =Softcuit
-        Width: =258
-        X: =87
-        Y: =42
+        Width: =280
+        X: =176
+        Y: =55
         ZIndex: =1
+
+    TextInput1 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =36
+        Y: =384
+        ZIndex: =2
 

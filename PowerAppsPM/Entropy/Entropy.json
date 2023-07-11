@@ -7,11 +7,12 @@
     "Host": 3,
     "Image2": 8,
     "Logo": 5,
-    "Registrarse": 6
+    "Registrarse": 6,
+    "TextInput1": 9
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:45:44",
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:47:58",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -28,7 +29,8 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "image": 0
+    "image": 0,
+    "text": 1
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -36,7 +38,8 @@
     "Host": {},
     "Image2": {},
     "Logo": {},
-    "Registrarse": {}
+    "Registrarse": {},
+    "TextInput1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
@@ -46,7 +49,8 @@
     "Host": 0,
     "Image2": 0,
     "Logo": 4,
-    "Registrarse": 5
+    "Registrarse": 5,
+    "TextInput1": 0
   },
   "ResourcesJsonIndices": {
     "Image-SampleImage": 0,
@@ -57,7 +61,8 @@
   "VolatileProperties": {
     "AnalysisLoadTime": 0.0053582,
     "ControlCount": {
-      "screen": 3
+      "screen": 3,
+      "text": 1
     },
     "DeserializationLoadTime": 0.2425489
   },
