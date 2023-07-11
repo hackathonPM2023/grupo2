@@ -1,2 +1,10 @@
 Logo As screen:
+    BackgroundImage: =
+    Fill: =RGBA(0, 0, 0, 0)
+
+    Image3 As image:
+        Height: =1136
+        Image: ='ig story notification (1)'
+        Width: =640
+        ZIndex: =2
 

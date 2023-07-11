@@ -1,4 +1,5 @@
 "'crear cuenta' As screen":
+    BackgroundImage: ='crear cuenta_1'
 
     Image1 As image:
         Height: =320
