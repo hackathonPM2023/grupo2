@@ -3,14 +3,7 @@
     "Image5": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "SampleImage",
-          "InvariantPropertyName": "Image",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "Image",
         "ImagePosition",
         "ImageRotation",
         "X",
@@ -50,7 +43,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image5",
-      "ParentIndex": 1,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
