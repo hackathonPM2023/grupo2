@@ -42,7 +42,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/12/2023 00:31:21",
+  "HeaderLastSavedDateTimeUTC": "07/12/2023 00:35:12",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -63,6 +63,7 @@
     "Softcuit (1)": "0006.png",
     "Softcuit (1)_1": "0007.png",
     "ubicacion": "0009.png",
+    "unnamed": "beb8aab6-0548-4fdf-9d14-ffce169bad59.png",
     "Youtube_logo": "f264247c-c6f7-48a8-81ff-1bc61b5de745.png"
   },
   "LocalResourceRootPaths": {
@@ -82,6 +83,7 @@
     "Softcuit (1)": "https://docserverpwaprodeus.blob.core.windows.net/6510c625-0a34-47d0-9afc-c9ddc62bdc71-1/resource/Assets0Images00006.png?sv=2018-03-28&sr=b&sig=DgMAfd%2BezPKSs8bPh6AZneQe0V8IiyY3Z%2BxDD3isDgc%3D&spr=https&se=2023-07-12T23%3A56%3A15Z&sp=r",
     "Softcuit (1)_1": "https://docserverpwaprodeus.blob.core.windows.net/6510c625-0a34-47d0-9afc-c9ddc62bdc71-1/resource/Assets0Images00007.png?sv=2018-03-28&sr=b&sig=gppt8phKC2GyYmO18fzK9K50jk0QYGXl0Ghz9sV8C00%3D&spr=https&se=2023-07-12T23%3A56%3A15Z&sp=r",
     "ubicacion": "https://docserverpwaprodeus.blob.core.windows.net/6510c625-0a34-47d0-9afc-c9ddc62bdc71-1/resource/Assets0Images00009.png?sv=2018-03-28&sr=b&sig=j2IVoUGXikdBOJBs2RxhxrlvvHIk7kXMxbgw9IRHArI%3D&spr=https&se=2023-07-12T23%3A56%3A15Z&sp=r",
+    "unnamed": "https://docserverpwaprodeus.blob.core.windows.net/6510c625-0a34-47d0-9afc-c9ddc62bdc71-1/resource/6e17ba40-1fc3-43de-b599-05f6451f0dd0.png?sv=2018-03-28&sr=b&sig=757O5QiKAxcQXYt9rHb4IRvPAiWlhFh37MLEPm%2B7CJg%3D&spr=https&se=2023-07-13T00%3A49%3A36Z&sp=r",
     "Youtube_logo": "https://docserverpwaprodeus.blob.core.windows.net/6510c625-0a34-47d0-9afc-c9ddc62bdc71-1/resource/b9940fdf-6969-4f92-b3bb-eadde7af4475.png?sv=2018-03-28&sr=b&sig=IioIDP%2FSEMV2nIb8L5kAFM5HCwGXp2Ev7oQflsvGSdI%3D&spr=https&se=2023-07-13T00%3A20%3A55Z&sp=r"
   },
   "OrderComponentMetadata": {},
@@ -198,6 +200,7 @@
     "Image-Softcuit (1)": 6,
     "Image-Softcuit (1)_1": 7,
     "Image-ubicacion": 9,
+    "Image-unnamed": 18,
     "Image-Youtube_logo": 10
   },
   "RuleScreenIdWithoutScreen": {},

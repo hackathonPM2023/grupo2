@@ -10,6 +10,7 @@ HomePage As screen:
         ZIndex: =1
 
     Icon2 As icon.OptionsList:
+        Color: =RGBA(0, 0, 0, 1)
         Height: =82
         Icon: =Icon.OptionsList
         Width: =103
@@ -78,10 +79,11 @@ HomePage As screen:
         ZIndex: =10
 
     Image11 As image:
-        Height: =182
-        Width: =274
-        X: =62
-        Y: =592
+        Height: =192
+        Image: =unnamed
+        Width: =356
+        X: =15
+        Y: =587
         ZIndex: =11
 
     Image12 As image:
