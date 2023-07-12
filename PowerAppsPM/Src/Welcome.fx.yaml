@@ -1,14 +1,14 @@
 Welcome As screen:
-    BackgroundImage: =crearcuenta
+    BackgroundImage: =crearcuenta_4
     Fill: =RGBA(237, 237, 237, 1)
     LoadingSpinnerColor: =RGBA(100, 118, 132, 1)
 
     Image18 As image:
         Height: =413
-        Image: =SoftcuitB
+        Image: =Captura_6
         Width: =456
-        X: =120
-        Y: =166
+        X: =94
+        Y: =186
         ZIndex: =1
 
     Button1_1 As button:
@@ -55,6 +55,6 @@ Welcome As screen:
             to
             "
         Width: =560
-        X: =42
+        X: =58
         ZIndex: =4
 
