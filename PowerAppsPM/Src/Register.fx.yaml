@@ -45,16 +45,6 @@ Register As screen:
         Y: =506
         ZIndex: =3
 
-    Image22 As image:
-        BorderColor: =RGBA(32, 54, 71, 1)
-        DisabledBorderColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        Height: =427
-        Image: ='11123'
-        Width: =640
-        Y: =709
-        ZIndex: =4
-
     TextInput2_3 As text:
         BorderThickness: =2
         Default: ="Password"
@@ -85,14 +75,4 @@ Register As screen:
         X: =143
         Y: =709
         ZIndex: =6
-
-    Image20 As image:
-        BorderColor: =RGBA(32, 54, 71, 1)
-        DisabledBorderColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        Height: =273
-        Image: =Captura
-        Width: =313
-        X: =182
-        ZIndex: =7
 
