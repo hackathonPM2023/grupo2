@@ -40,10 +40,8 @@ Register As screen:
         ZIndex: =6
 
     Button2 As button:
-        BorderColor: |
-            =ColorFade(Self.Fill, -15%)#8C52FF
         Color: =RGBA(0, 0, 0, 1)
-        Fill: =RGBA(0, 0, 0, 0)
+        Fill: =RGBA(149, 149, 149, 1)
         Font: =Font.'Dancing Script'
         Height: =80
         Size: =50
