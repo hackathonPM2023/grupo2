@@ -13,8 +13,8 @@ Register As screen:
         RadiusTopRight: =50
         Size: =21
         Width: =560
-        X: =39
-        Y: =299
+        X: =38
+        Y: =275
         ZIndex: =1
 
     TextInput2_1 As text:
@@ -27,8 +27,8 @@ Register As screen:
         RadiusTopRight: =50
         Size: =21
         Width: =560
-        X: =40
-        Y: =396
+        X: =38
+        Y: =390
         ZIndex: =2
 
     TextInput2_2 As text:
@@ -45,6 +45,16 @@ Register As screen:
         Y: =506
         ZIndex: =3
 
+    Image26 As image:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Height: =424
+        Image: ='11123'
+        Width: =640
+        Y: =712
+        ZIndex: =4
+
     TextInput2_3 As text:
         BorderThickness: =2
         Default: ="Password"
@@ -56,23 +66,35 @@ Register As screen:
         Size: =21
         Width: =560
         X: =40
-        Y: =612
+        Y: =609
         ZIndex: =5
 
     Button2 As button:
+        BorderColor: =ColorFade(Self.Fill,)
+        BorderThickness: =3
         Color: =RGBA(0, 0, 0, 1)
-        Fill: =RGBA(149, 149, 149, 1)
+        Fill: =RGBA(202, 202, 202, 1)
         Font: =Font.'Open Sans Condensed'
         FontWeight: =FontWeight.Semibold
-        Height: =80
+        Height: =86
         RadiusBottomLeft: =50
         RadiusBottomRight: =50
         RadiusTopLeft: =50
         RadiusTopRight: =50
         Size: =50
         Text: ="Register"
-        Width: =351
-        X: =143
-        Y: =709
+        Width: =420
+        X: =108
+        Y: =712
         ZIndex: =6
+
+    Image25 As image:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Height: =263
+        Image: =Captura_1
+        Width: =273
+        X: =182
+        ZIndex: =7
 
