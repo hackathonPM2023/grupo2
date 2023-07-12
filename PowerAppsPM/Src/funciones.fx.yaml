@@ -96,17 +96,6 @@ funciones As screen:
         Y: =335
         ZIndex: =25
 
-    Icon8 As icon.Key:
-        BorderColor: =RGBA(32, 54, 71, 1)
-        DisabledBorderColor: =RGBA(166, 166, 166, 1)
-        DisabledColor: =RGBA(244, 244, 244, 1)
-        Height: =85
-        Icon: =Icon.Key
-        Width: =76
-        X: =486
-        Y: =162
-        ZIndex: =26
-
     Icon9 As icon.More:
         BorderColor: =RGBA(32, 54, 71, 1)
         DisabledBorderColor: =RGBA(166, 166, 166, 1)
