@@ -51,6 +51,7 @@ CreateAnAccount As screen:
     Button1 As button:
         Color: =RGBA(0, 0, 0, 1)
         DisabledColor: =RGBA(0, 0, 0, 1)
+        DisabledFill: =RGBA(0, 0, 0, 1)
         Fill: =RGBA(0, 0, 0, 0)
         Height: =70
         Size: =24
