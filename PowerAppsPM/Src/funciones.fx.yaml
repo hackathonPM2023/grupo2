@@ -116,7 +116,7 @@ funciones As screen:
     Label1 As label:
         Height: =36
         Size: =16
-        Text: ="Ubicación VPN"
+        Text: ="VPN location"
         Width: =155
         X: =42
         Y: =272
@@ -125,16 +125,16 @@ funciones As screen:
     Label2 As label:
         Height: =42
         Size: =16
-        Text: ="Copia de seguridad"
-        Width: =208
-        X: =221
-        Y: =266
+        Text: ="Backup copy"
+        Width: =137
+        X: =256
+        Y: =267
         ZIndex: =19
 
     Label3 As label:
         Height: =48
         Size: =16
-        Text: ="Cambiar contraseña "
+        Text: ="Change password "
         Width: =212
         X: =428
         Y: =263
@@ -143,7 +143,7 @@ funciones As screen:
     Label4 As label:
         Height: =36
         Size: =16
-        Text: ="Alertas"
+        Text: ="Alerts"
         Width: =85
         X: =77
         Y: =470
@@ -159,10 +159,10 @@ funciones As screen:
         ZIndex: =22
 
     Label6 As label:
-        Height: =44
+        Height: =41
         Size: =16
-        Text: ="Incluir aplicación "
-        Width: =181
+        Text: ="Include application "
+        Width: =203
         X: =437
         Y: =465
         ZIndex: =23
@@ -170,7 +170,7 @@ funciones As screen:
     Label7 As label:
         Height: =39
         Size: =16
-        Text: ="Más opciones "
+        Text: ="More options "
         Width: =153
         X: =52
         Y: =671
