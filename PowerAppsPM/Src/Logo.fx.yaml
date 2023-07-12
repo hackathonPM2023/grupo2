@@ -5,6 +5,7 @@ Logo As screen:
     Image3 As image:
         Height: =1136
         Image: ='ig story notification (1)'
+        ImagePosition: =ImagePosition.Fill
         Width: =640
         ZIndex: =2
 
