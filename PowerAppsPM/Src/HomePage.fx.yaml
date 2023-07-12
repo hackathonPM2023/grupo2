@@ -96,11 +96,11 @@ HomePage As screen:
         BorderColor: =RGBA(32, 54, 71, 1)
         DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
-        Height: =192
-        Image: =unnamed
-        Width: =356
-        X: =15
-        Y: =587
+        Height: =154
+        Image: ='Super-Mario-Logo'
+        Width: =331
+        X: =40
+        Y: =677
         ZIndex: =11
 
     Image12 As image:
@@ -108,11 +108,11 @@ HomePage As screen:
         DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
         Height: =137
-        Image: =images_1
+        Image: =descarga_1
         ImagePosition: =ImagePosition.Fill
         Width: =200
         X: =358
-        Y: =421
+        Y: =462
         ZIndex: =12
 
     Image13 As image:
@@ -123,8 +123,8 @@ HomePage As screen:
         Image: ='29454'
         ImagePosition: =ImagePosition.Fill
         Width: =189
-        X: =361
-        Y: =599
+        X: =371
+        Y: =677
         ZIndex: =13
 
     Icon4 As icon.Home:
@@ -215,10 +215,10 @@ HomePage As screen:
         BorderColor: =RGBA(32, 54, 71, 1)
         DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
-        Height: =200
+        Height: =213
         Image: ='mickey-mouse-white-word-name-logo-png-11657381378zmyywpfexz'
-        Width: =177
+        Width: =197
         X: =104
-        Y: =387
+        Y: =430
         ZIndex: =23
 
