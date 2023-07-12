@@ -41,7 +41,7 @@ CreateAnAccount As screen:
         Size: =26
         Width: =560
         X: =38
-        Y: =367
+        Y: =382
         ZIndex: =3
 
     TextInput3 As text:
@@ -61,48 +61,48 @@ CreateAnAccount As screen:
         Y: =483
         ZIndex: =4
 
-    TextInput4 As text:
-        Align: =Align.Center
+    Button3 As button:
         Color: =RGBA(0, 0, 0, 1)
-        Default: ="Log In"
-        Fill: =RGBA(182, 167, 204, 1)
-        Font: =Font.Georgia
-        FontWeight: =FontWeight.Bold
-        Height: =70
-        RadiusBottomLeft: =30
-        RadiusBottomRight: =30
-        RadiusTopLeft: =30
-        RadiusTopRight: =30
-        Size: =26
-        Width: =560
-        X: =44
-        Y: =666
-        ZIndex: =5
-
-    TextInput5 As text:
-        Align: =Align.Center
-        BorderColor: =RGBA(32, 54, 71, 1)
-        BorderThickness: =2
-        Color: =RGBA(0, 0, 0, 1)
-        Default: ="Register"
         DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
-        Fill: =RGBA(182, 167, 204, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.Georgia
-        FontWeight: =FontWeight.Bold
-        Height: =70
-        HoverBorderColor: =RGBA(32, 54, 71, 1)
-        HoverColor: =RGBA(0, 0, 0, 1)
-        HoverFill: =RGBA(205, 209, 213, 1)
-        RadiusBottomLeft: =30
-        RadiusBottomRight: =30
-        RadiusTopLeft: =30
-        RadiusTopRight: =30
-        Size: =26
-        Width: =560
-        X: =44
-        Y: =763
-        ZIndex: =6
+        DisplayMode: =DisplayMode.View
+        Fill: =RGBA(153, 153, 153, 1)
+        FontWeight: =FontWeight.Semibold
+        Height: =69
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =ColorFade(RGBA(100, 118, 132, 1), -20%)
+        RadiusBottomLeft: =50
+        RadiusBottomRight: =50
+        RadiusTopLeft: =50
+        RadiusTopRight: =50
+        Size: =30
+        Text: ="Log In"
+        Width: =361
+        X: =125
+        Y: =666
+        ZIndex: =7
+
+    Button4 As button:
+        BorderColor: =
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(153, 153, 153, 1)
+        FontWeight: =FontWeight.Semibold
+        Height: =78
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =ColorFade(RGBA(100, 118, 132, 1), -20%)
+        OnSelect: =Navigate(Register,ScreenTransition.Fade)
+        RadiusBottomLeft: =50
+        RadiusBottomRight: =50
+        RadiusTopLeft: =50
+        RadiusTopRight: =50
+        Size: =30
+        Text: ="Register"
+        Width: =361
+        X: =125
+        Y: =751
+        ZIndex: =8
 

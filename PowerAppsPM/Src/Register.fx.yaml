@@ -13,8 +13,8 @@ Register As screen:
         RadiusTopRight: =50
         Size: =21
         Width: =560
-        X: =39
-        Y: =299
+        X: =38
+        Y: =275
         ZIndex: =1
 
     TextInput2_1 As text:
@@ -27,8 +27,8 @@ Register As screen:
         RadiusTopRight: =50
         Size: =21
         Width: =560
-        X: =40
-        Y: =396
+        X: =38
+        Y: =390
         ZIndex: =2
 
     TextInput2_2 As text:
@@ -56,23 +56,27 @@ Register As screen:
         Size: =21
         Width: =560
         X: =40
-        Y: =612
+        Y: =609
         ZIndex: =5
 
     Button2 As button:
         Color: =RGBA(0, 0, 0, 1)
-        Fill: =RGBA(149, 149, 149, 1)
-        Font: =Font.'Open Sans Condensed'
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(179, 179, 179, 1)
         FontWeight: =FontWeight.Semibold
-        Height: =80
+        Height: =70
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =ColorFade(RGBA(100, 118, 132, 1), -20%)
         RadiusBottomLeft: =50
         RadiusBottomRight: =50
         RadiusTopLeft: =50
         RadiusTopRight: =50
-        Size: =50
-        Text: ="Register"
-        Width: =351
-        X: =143
-        Y: =709
-        ZIndex: =6
+        Size: =30
+        Text: ="REGISTER"
+        Width: =280
+        X: =194
+        Y: =736
+        ZIndex: =8
 

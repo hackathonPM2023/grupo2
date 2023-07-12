@@ -50,7 +50,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image20",
-      "ParentIndex": 14,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -252,7 +252,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image22",
-      "ParentIndex": 16,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -454,7 +454,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image23",
-      "ParentIndex": 17,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -656,7 +656,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image24",
-      "ParentIndex": 18,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4011,7 +4011,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "TextInput7",
-      "ParentIndex": 15,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
