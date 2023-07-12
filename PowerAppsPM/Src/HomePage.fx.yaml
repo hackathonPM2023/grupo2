@@ -76,7 +76,7 @@ HomePage As screen:
         DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
         Height: =118
-        Image: =deepl
+        Image: ='download-removebg-preview'
         Width: =80
         X: =281
         Y: =267
