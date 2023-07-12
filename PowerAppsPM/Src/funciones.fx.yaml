@@ -1,5 +1,5 @@
 funciones As screen:
-    BackgroundImage: =crearcuenta
+    BackgroundImage: =crearcuenta_2
     Fill: =RGBA(237, 237, 237, 1)
     LoadingSpinnerColor: =RGBA(100, 118, 132, 1)
 
