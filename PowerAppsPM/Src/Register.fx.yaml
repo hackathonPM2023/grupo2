@@ -69,25 +69,6 @@ Register As screen:
         Y: =609
         ZIndex: =5
 
-    Button2 As button:
-        BorderColor: =ColorFade(Self.Fill)
-        BorderThickness: =3
-        Color: =RGBA(0, 0, 0, 1)
-        Fill: =RGBA(202, 202, 202, 1)
-        Font: =Font.'Open Sans Condensed'
-        FontWeight: =FontWeight.Semibold
-        Height: =86
-        RadiusBottomLeft: =50
-        RadiusBottomRight: =50
-        RadiusTopLeft: =50
-        RadiusTopRight: =50
-        Size: =50
-        Text: ="Register"
-        Width: =420
-        X: =108
-        Y: =712
-        ZIndex: =6
-
     Image25 As image:
         BorderColor: =RGBA(32, 54, 71, 1)
         DisabledBorderColor: =RGBA(166, 166, 166, 1)
@@ -97,4 +78,25 @@ Register As screen:
         Width: =273
         X: =182
         ZIndex: =7
+
+    Button2 As button:
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =ColorFade(RGBA(100, 118, 132, 1), -20%)
+        RadiusBottomLeft: =50
+        RadiusBottomRight: =50
+        RadiusTopLeft: =50
+        RadiusTopRight: =50
+        Size: =24
+        Text: ="REGISTER"
+        Width: =280
+        X: =194
+        Y: =736
+        ZIndex: =8
 
