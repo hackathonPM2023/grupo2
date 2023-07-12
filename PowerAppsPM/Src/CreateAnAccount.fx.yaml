@@ -1,3 +1,103 @@
 CreateAnAccount As screen:
-    BackgroundImage: ='crear cuenta_1'
+    BackgroundImage: =crearcuenta
+
+    TextInput1 As text:
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 1)
+        Default: ="Text input"
+        DisabledFill: =RGBA(0, 121, 187, 1)
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        HoverColor: =RGBA(0, 94, 146, 1)
+        HoverFill: =RGBA(167, 182, 203, 1)
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =26
+        Width: =560
+        X: =44
+        Y: =513
+        ZIndex: =2
+
+    Image2 As image:
+        Height: =399
+        Image: =SoftcuitB
+        Width: =551
+        X: =44
+        ZIndex: =3
+
+    TextInput1_1 As text:
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 1)
+        Default: ="Text input"
+        DisabledFill: =RGBA(0, 121, 187, 1)
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        HoverColor: =RGBA(0, 94, 146, 1)
+        HoverFill: =RGBA(167, 182, 203, 1)
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =26
+        Width: =560
+        X: =44
+        Y: =419
+        ZIndex: =4
+
+    Button1 As button:
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledColor: =RGBA(0, 0, 0, 1)
+        DisabledFill: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =70
+        Size: =24
+        Text: ="Forgot you password?"
+        Width: =387
+        X: =125
+        Y: =583
+        ZIndex: =5
+
+    TextInput1_2 As text:
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 1)
+        Default: ="Text input"
+        DisabledFill: =RGBA(0, 121, 187, 1)
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        HoverColor: =RGBA(0, 94, 146, 1)
+        HoverFill: =RGBA(167, 182, 203, 1)
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =26
+        Width: =560
+        X: =44
+        Y: =659
+        ZIndex: =6
+
+    TextInput1_3 As text:
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 1)
+        Default: ="Text input"
+        DisabledFill: =RGBA(0, 121, 187, 1)
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        HoverColor: =RGBA(0, 94, 146, 1)
+        HoverFill: =RGBA(167, 182, 203, 1)
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =26
+        Width: =560
+        X: =39
+        Y: =755
+        ZIndex: =7
 

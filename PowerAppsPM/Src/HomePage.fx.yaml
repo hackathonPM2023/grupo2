@@ -18,16 +18,6 @@ HomePage As screen:
         Y: =30
         ZIndex: =3
 
-    TextInput1 As text:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        Default: ="Entrada de texto"
-        Height: =58
-        Size: =20
-        Width: =468
-        X: =56
-        Y: =196
-        ZIndex: =4
-
     Icon3 As icon.Search:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =5

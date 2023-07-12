@@ -1,12 +1,6 @@
 Register As screen:
     BackgroundImage: =
 
-    Image2 As image:
-        Height: =1136
-        Image: =crearcuenta
-        Width: =640
-        ZIndex: =1
-
     Image9 As image:
         Height: =220
         Image: =SoftcuitB

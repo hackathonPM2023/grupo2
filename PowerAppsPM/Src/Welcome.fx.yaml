@@ -23,23 +23,6 @@ Welcome As screen:
         Y: =24
         ZIndex: =2
 
-    Button1 As button:
-        BorderColor: =RGBA(0,0,0,1)
-        BorderThickness: =4
-        Color: =RGBA(0, 0, 0, 1)
-        Fill: =RGBA(0, 0, 0, 0)
-        Height: =66
-        RadiusBottomLeft: =50
-        RadiusBottomRight: =50
-        RadiusTopLeft: =50
-        RadiusTopRight: =50
-        Size: =24
-        Text: ="Fuctions"
-        Width: =366
-        X: =139
-        Y: =584
-        ZIndex: =3
-
     Button1_1 As button:
         BorderColor: =RGBA(0,0,0,1)
         BorderThickness: =4
