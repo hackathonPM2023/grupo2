@@ -110,7 +110,7 @@
     "DocumentType": "App",
     "EnableInstrumentation": false,
     "FileID": "7930e302-82a1-4800-80d6-acf3cad461ed",
-    "Id": "973c5dbf-6cb2-4498-9482-d0800eafc53f",
+    "Id": "ac810fe0-b25a-4ab8-8e18-6a202d90306a",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
@@ -128,14 +128,14 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "en-US"
+    "UserLocale": "es-ES"
   },
   "ScreenOrder": [
     "Logo",
     "CreateAnAccount",
     "Register",
-    "funciones",
     "Welcome",
+    "funciones",
     "FunctionProcess",
     "Functions",
     "HomePage"

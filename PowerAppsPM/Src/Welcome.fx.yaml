@@ -2,26 +2,13 @@ Welcome As screen:
     BackgroundImage: =crearcuenta
     Fill: =RGBA(219, 219, 219, 1)
 
-    Image8 As image:
-        Height: =396
+    Image18 As image:
+        Height: =413
         Image: =SoftcuitB
-        Width: =412
-        X: =116
-        Y: =200
+        Width: =456
+        X: =94
+        Y: =199
         ZIndex: =1
-
-    Label2 As label:
-        Align: =Align.Center
-        Font: =Font.'Patrick Hand'
-        Height: =232
-        Size: =75
-        Text: |-
-            ="Welcome!
-            to"
-        Width: =560
-        X: =42
-        Y: =24
-        ZIndex: =2
 
     Button1_1 As button:
         BorderColor: =RGBA(0,0,0,1)
@@ -38,5 +25,35 @@ Welcome As screen:
         Width: =366
         X: =139
         Y: =696
+        ZIndex: =2
+
+    Button1_2 As button:
+        BorderColor: =RGBA(0,0,0,1)
+        BorderThickness: =4
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =66
+        RadiusBottomLeft: =50
+        RadiusBottomRight: =50
+        RadiusTopLeft: =50
+        RadiusTopRight: =50
+        Size: =24
+        Text: ="Fuctions"
+        Width: =366
+        X: =139
+        Y: =599
+        ZIndex: =3
+
+    Label8 As label:
+        Align: =Align.Center
+        Font: =Font.'Patrick Hand'
+        Height: =245
+        Size: =75
+        Text: |-
+            ="Welcome!
+            to
+            "
+        Width: =560
+        X: =42
         ZIndex: =4
 
