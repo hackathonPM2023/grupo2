@@ -1,52 +1,186 @@
 funciones As screen:
-    BackgroundImage: ='crear cuenta_1'
+    BackgroundImage: =crearcuenta
 
     Circle1 As circle:
+        BorderColor: =RGBA(56, 96, 178, 1)
+        Fill: =RGBA(0, 0, 0, 0)
         Height: =134
         Width: =132
         X: =52
-        Y: =114
+        Y: =138
         ZIndex: =3
 
     Circle1_1 As circle:
+        Fill: =RGBA(0, 0, 0, 0)
         Height: =134
         Width: =132
-        X: =262
-        Y: =114
+        X: =259
+        Y: =138
         ZIndex: =4
 
     Circle1_2 As circle:
+        Fill: =RGBA(0, 0, 0, 0)
         Height: =134
         Width: =132
         X: =52
-        Y: =305
+        Y: =338
         ZIndex: =5
 
     Circle1_3 As circle:
+        Fill: =RGBA(0, 0, 0, 0)
         Height: =134
         Width: =132
         X: =458
-        Y: =114
+        Y: =138
         ZIndex: =6
 
     Circle1_4 As circle:
+        Fill: =RGBA(0, 0, 0, 0)
         Height: =134
         Width: =132
         X: =262
-        Y: =308
+        Y: =338
         ZIndex: =7
 
     Circle1_5 As circle:
+        Fill: =RGBA(0, 0, 0, 0)
         Height: =134
         Width: =132
         X: =52
-        Y: =514
+        Y: =550
         ZIndex: =8
 
     Circle1_6 As circle:
+        Fill: =RGBA(0, 0, 0, 0)
         Height: =134
         Width: =132
         X: =458
-        Y: =308
+        Y: =338
         ZIndex: =9
+
+    Icon2_1 As icon.OptionsList:
+        Height: =82
+        Icon: =Icon.OptionsList
+        Width: =103
+        X: =515
+        Y: =25
+        ZIndex: =10
+
+    Image8 As image:
+        Height: =150
+        Image: ='52840'
+        Width: =103
+        X: =472
+        Y: =151
+        ZIndex: =12
+
+    Image9 As image:
+        Height: =108
+        Image: ='16073'
+        Width: =110
+        X: =63
+        Y: =563
+        ZIndex: =13
+
+    Image14 As image:
+        Height: =108
+        Image: =warning_triangle_outline_alert_icon_175540
+        Width: =110
+        X: =63
+        Y: =357
+        ZIndex: =14
+
+    Image15 As image:
+        Height: =106
+        Image: ='747305'
+        Width: =108
+        X: =270
+        Y: =157
+        ZIndex: =15
+
+    Image16 As image:
+        Height: =128
+        Image: ='3067789'
+        X: =275
+        Y: =342
+        ZIndex: =16
+
+    Image17 As image:
+        Height: =142
+        Image: =location_icon_176656
+        Width: =151
+        X: =42
+        Y: =151
+        ZIndex: =17
+
+    Label1 As label:
+        Height: =36
+        Size: =16
+        Text: ="Ubicación VPN"
+        Width: =155
+        X: =42
+        Y: =272
+        ZIndex: =18
+
+    Label2 As label:
+        Height: =42
+        Size: =16
+        Text: ="Copia de seguridad"
+        Width: =208
+        X: =221
+        Y: =266
+        ZIndex: =19
+
+    Label3 As label:
+        Height: =48
+        Size: =16
+        Text: ="Cambiar contraseña "
+        Width: =212
+        X: =428
+        Y: =263
+        ZIndex: =20
+
+    Label4 As label:
+        Height: =36
+        Size: =16
+        Text: ="Alertas"
+        Width: =85
+        X: =77
+        Y: =470
+        ZIndex: =21
+
+    Label5 As label:
+        Height: =41
+        Size: =16
+        Text: ="Antivirus"
+        Width: =98
+        X: =278
+        Y: =465
+        ZIndex: =22
+
+    Label6 As label:
+        Height: =44
+        Size: =16
+        Text: ="Incluir aplicación "
+        Width: =181
+        X: =437
+        Y: =465
+        ZIndex: =23
+
+    Label7 As label:
+        Height: =39
+        Size: =16
+        Text: ="Más opciones "
+        Width: =153
+        X: =52
+        Y: =671
+        ZIndex: =24
+
+    Image21 As image:
+        Height: =130
+        Image: ='free-add-circle-1780605-1513760'
+        Width: =124
+        X: =462
+        Y: =338
+        ZIndex: =25
 
