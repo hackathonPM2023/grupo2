@@ -9,6 +9,7 @@ Logo As screen:
         Height: =1136
         Image: ='ig story notification (1)'
         ImagePosition: =ImagePosition.Fill
+        OnSelect: =Navigate(CreateAnAccount,ScreenTransition.Fade)
         Width: =640
         ZIndex: =2
 
