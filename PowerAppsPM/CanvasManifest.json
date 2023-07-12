@@ -120,7 +120,7 @@
     "ShowStatusBar": false
   },
   "PublishInfo": {
-    "AppName": "SoftCuit - copia",
+    "AppName": "SoftCuit",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",
@@ -134,8 +134,8 @@
     "Logo",
     "CreateAnAccount",
     "Register",
-    "funciones",
     "Welcome",
+    "funciones",
     "FunctionProcess",
     "Functions",
     "HomePage"

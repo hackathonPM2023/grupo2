@@ -137,3 +137,18 @@ HomePage As screen:
         Y: =1036
         ZIndex: =19
 
+    TextInput3 As text:
+        Default: ="Entrada de texto"
+        Height: =57
+        Size: =21
+        Width: =468
+        X: =56
+        Y: =196
+        ZIndex: =21
+
+    Icon1 As icon.HorizontalLine:
+        Icon: =Icon.HorizontalLine
+        X: =40
+        Y: =40
+        ZIndex: =23
+
