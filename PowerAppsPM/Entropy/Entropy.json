@@ -3,6 +3,8 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
+    "Button1": 42,
+    "Button1_1": 43,
     "Circle1": 10,
     "Circle1_1": 11,
     "Circle1_2": 13,
@@ -44,7 +46,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/12/2023 02:26:09",
+  "HeaderLastSavedDateTimeUTC": "07/12/2023 02:32:02",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -102,14 +104,17 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "circle": 2,
-    "icon": 3,
+    "button": 2,
+    "circle": 3,
+    "icon": 4,
     "image": 0,
     "label": 1,
-    "text": 4
+    "text": 5
   },
   "OverridablePropertiesEntry": {
     "App": {},
+    "Button1": {},
+    "Button1_1": {},
     "Circle1": {},
     "Circle1_1": {},
     "Circle1_2": {},
@@ -153,6 +158,8 @@
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
+    "Button1": 0,
+    "Button1_1": 0,
     "Circle1": 1,
     "Circle1_1": 2,
     "Circle1_2": 4,
@@ -220,6 +227,7 @@
   "VolatileProperties": {
     "AnalysisLoadTime": 0.1254936,
     "ControlCount": {
+      "button": 1,
       "circle": 8,
       "icon": 6,
       "image": 11,

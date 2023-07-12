@@ -7,7 +7,7 @@ Welcome As screen:
         Image: =SoftcuitB
         Width: =412
         X: =116
-        Y: =188
+        Y: =200
         ZIndex: =1
 
     Label2 As label:
@@ -20,5 +20,40 @@ Welcome As screen:
             to"
         Width: =560
         X: =42
+        Y: =24
         ZIndex: =2
+
+    Button1 As button:
+        BorderColor: =RGBA(0,0,0,1)
+        BorderThickness: =4
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =66
+        RadiusBottomLeft: =50
+        RadiusBottomRight: =50
+        RadiusTopLeft: =50
+        RadiusTopRight: =50
+        Size: =24
+        Text: ="Fuctions"
+        Width: =366
+        X: =139
+        Y: =584
+        ZIndex: =3
+
+    Button1_1 As button:
+        BorderColor: =RGBA(0,0,0,1)
+        BorderThickness: =4
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =66
+        RadiusBottomLeft: =50
+        RadiusBottomRight: =50
+        RadiusTopLeft: =50
+        RadiusTopRight: =50
+        Size: =24
+        Text: ="Complete package"
+        Width: =366
+        X: =139
+        Y: =696
+        ZIndex: =4
 
