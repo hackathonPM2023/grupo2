@@ -84,10 +84,10 @@ Register As screen:
         BorderColor: =RGBA(32, 54, 71, 1)
         DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
-        Height: =230
-        Image: =SoftcuitB
-        Width: =258
-        X: =189
+        Height: =246
+        Image: =Captura_5
+        Width: =284
+        X: =178
         Y: =29
         ZIndex: =9
 
