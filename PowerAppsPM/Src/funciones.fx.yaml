@@ -167,3 +167,14 @@ funciones As screen:
         Y: =456
         ZIndex: =32
 
+    Icon10 As icon.Key:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(244, 244, 244, 1)
+        Height: =104
+        Icon: =Icon.Key
+        Width: =95
+        X: =479
+        Y: =165
+        ZIndex: =33
+
