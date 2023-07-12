@@ -1,4 +1,21 @@
 Welcome As screen:
-    BackgroundImage: =
-    Fill: =RGBA(0, 0, 0, 0)
+    BackgroundImage: =crearcuenta
+    Fill: =RGBA(219, 219, 219, 1)
+
+    Button1_1 As button:
+        BorderColor: =RGBA(0,0,0,1)
+        BorderThickness: =4
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =66
+        RadiusBottomLeft: =50
+        RadiusBottomRight: =50
+        RadiusTopLeft: =50
+        RadiusTopRight: =50
+        Size: =24
+        Text: ="Complete package"
+        Width: =366
+        X: =139
+        Y: =696
+        ZIndex: =4
 

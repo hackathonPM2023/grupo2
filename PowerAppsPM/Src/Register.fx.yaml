@@ -1,3 +1,53 @@
 Register As screen:
     BackgroundImage: =
 
+    TextInput2 As text:
+        Default: ="Full name "
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =40
+        Y: =220
+        ZIndex: =3
+
+    TextInput2_1 As text:
+        Default: ="E-mail Address"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =40
+        Y: =337
+        ZIndex: =4
+
+    TextInput2_2 As text:
+        Default: ="Phone Number"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =40
+        Y: =455
+        ZIndex: =5
+
+    TextInput2_3 As text:
+        Default: ="Password"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =40
+        Y: =572
+        ZIndex: =6
+
+    Button2 As button:
+        BorderColor: |
+            =ColorFade(Self.Fill, -15%)#8C52FF
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Dancing Script'
+        Height: =80
+        Size: =50
+        Text: ="Register"
+        Width: =351
+        X: =144
+        Y: =700
+        ZIndex: =7
+

@@ -10,22 +10,13 @@ HomePage As screen:
         ZIndex: =1
 
     Icon2 As icon.OptionsList:
+        Color: =RGBA(0, 0, 0, 1)
         Height: =82
         Icon: =Icon.OptionsList
         Width: =103
         X: =15
         Y: =30
         ZIndex: =3
-
-    TextInput1 As text:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        Default: ="Entrada de texto"
-        Height: =58
-        Size: =20
-        Width: =468
-        X: =56
-        Y: =196
-        ZIndex: =4
 
     Icon3 As icon.Search:
         BorderColor: =RGBA(0, 0, 0, 1)
@@ -78,23 +69,71 @@ HomePage As screen:
         ZIndex: =10
 
     Image11 As image:
-        Height: =172
-        Width: =266
+        Height: =192
+        Image: =unnamed
+        Width: =356
         X: =15
-        Y: =417
+        Y: =587
         ZIndex: =11
 
     Image12 As image:
-        Height: =158
-        Width: =135
-        X: =335
-        Y: =441
+        Height: =150
+        Image: =images_1
+        ImagePosition: =ImagePosition.Fill
+        Width: =189
+        X: =361
+        Y: =402
         ZIndex: =12
 
     Image13 As image:
-        Height: =206
-        Width: =186
-        X: =403
-        Y: =417
+        Height: =168
+        Image: ='29454'
+        ImagePosition: =ImagePosition.Fill
+        Width: =189
+        X: =361
+        Y: =599
         ZIndex: =13
+
+    Icon4 As icon.Home:
+        Color: =RGBA(109, 49, 162, 1)
+        Height: =83
+        Icon: =Icon.Home
+        Width: =84
+        X: =56
+        Y: =1043
+        ZIndex: =15
+
+    Icon5 As icon.Search:
+        Color: =RGBA(255, 255, 0, 1)
+        Height: =68
+        Icon: =Icon.Search
+        Width: =76
+        X: =183
+        Y: =1055
+        ZIndex: =16
+
+    Icon6 As icon.AddUser:
+        Color: =RGBA(255, 255, 0, 1)
+        Icon: =Icon.AddUser
+        X: =406
+        Y: =1059
+        ZIndex: =17
+
+    Icon7 As icon.Message:
+        Color: =RGBA(109, 49, 162, 1)
+        Height: =70
+        Icon: =Icon.Message
+        Width: =90
+        X: =515
+        Y: =1056
+        ZIndex: =18
+
+    Circle2 As circle:
+        BorderColor: =RGBA(109, 49, 162, 1)
+        BorderThickness: =1
+        DisabledFill: =
+        Fill: =RGBA(0, 0, 0, 0)
+        X: =277
+        Y: =1036
+        ZIndex: =19
 
