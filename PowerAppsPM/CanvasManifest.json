@@ -110,11 +110,11 @@
     "DocumentType": "App",
     "EnableInstrumentation": false,
     "FileID": "7930e302-82a1-4800-80d6-acf3cad461ed",
-    "Id": "0e1cd1d2-5aa3-4a54-ace1-10529e06d86b",
+    "Id": "1e8ba126-0bbb-4ae9-90db-c7d22142c9a1",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "SoftCuit",
+    "Name": "SoftCuit.msapp",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
