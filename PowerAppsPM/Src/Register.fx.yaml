@@ -70,7 +70,7 @@ Register As screen:
         ZIndex: =5
 
     Button2 As button:
-        BorderColor: =ColorFade(Self.Fill,)
+        BorderColor: =ColorFade(Self.Fill)
         BorderThickness: =3
         Color: =RGBA(0, 0, 0, 1)
         Fill: =RGBA(202, 202, 202, 1)
