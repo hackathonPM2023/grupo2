@@ -201,17 +201,6 @@ HomePage As screen:
         Y: =196
         ZIndex: =20
 
-    Image19 As image:
-        BorderColor: =RGBA(32, 54, 71, 1)
-        DisabledBorderColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        Height: =180
-        Image: ='mickey-mouse-white-word-name-logo-png-11657381378zmyywpfexz'
-        Width: =180
-        X: =103
-        Y: =407
-        ZIndex: =21
-
     Icon8 As icon.HorizontalLine:
         BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(32, 54, 71, 1)
