@@ -146,3 +146,17 @@ HomePage As screen:
         Y: =196
         ZIndex: =21
 
+    Image18 As image:
+        Height: =186
+        Image: =descarga
+        Width: =227
+        X: =83
+        Y: =385
+        ZIndex: =22
+
+    Icon1 As icon.HorizontalLine:
+        Icon: =Icon.HorizontalLine
+        X: =40
+        Y: =40
+        ZIndex: =23
+
