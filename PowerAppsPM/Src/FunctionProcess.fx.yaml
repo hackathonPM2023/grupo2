@@ -1,4 +1,0 @@
-FunctionProcess As screen:
-    Fill: =RGBA(237, 237, 237, 1)
-    LoadingSpinnerColor: =RGBA(100, 118, 132, 1)
-
