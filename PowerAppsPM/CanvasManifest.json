@@ -116,7 +116,7 @@
     "ManualOfflineProfileId": "",
     "Name": "SoftCuit",
     "OriginatingVersion": "1.333",
-    "ParserErrorCount": 1,
+    "ParserErrorCount": 0,
     "ShowStatusBar": false
   },
   "PublishInfo": {
@@ -137,7 +137,6 @@
     "funciones",
     "Welcome",
     "FunctionProcess",
-    "Functions",
     "HomePage",
     "SHAROL"
   ]
