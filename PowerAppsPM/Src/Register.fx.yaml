@@ -6,6 +6,8 @@ Register As screen:
     TextInput2 As text:
         BorderThickness: =2
         Default: =""
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Semibold
         Height: =70
         HintText: ="Full name "
         RadiusBottomLeft: =50
@@ -21,6 +23,8 @@ Register As screen:
     TextInput2_1 As text:
         BorderThickness: =2
         Default: =""
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Semibold
         Height: =70
         HintText: ="E-mail Address"
         RadiusBottomLeft: =50
@@ -36,6 +40,8 @@ Register As screen:
     TextInput2_2 As text:
         BorderThickness: =2
         Default: =""
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Semibold
         Height: =70
         HintText: ="Phone Number"
         RadiusBottomLeft: =50
@@ -51,6 +57,8 @@ Register As screen:
     TextInput2_3 As text:
         BorderThickness: =2
         Default: =""
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Semibold
         Height: =70
         HintText: ="Password"
         RadiusBottomLeft: =50
