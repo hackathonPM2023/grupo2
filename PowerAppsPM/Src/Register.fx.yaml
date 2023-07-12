@@ -1,13 +1,6 @@
 Register As screen:
     BackgroundImage: =
 
-    Image9 As image:
-        Height: =220
-        Image: =SoftcuitB
-        Width: =226
-        X: =207
-        ZIndex: =2
-
     TextInput2 As text:
         Default: ="Full name "
         Height: =70
