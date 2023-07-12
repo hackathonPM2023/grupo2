@@ -1,7 +1,12 @@
 HomePage As screen:
     BackgroundImage: =
+    Fill: =RGBA(237, 237, 237, 1)
+    LoadingSpinnerColor: =RGBA(100, 118, 132, 1)
 
     Image1 As image:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
         Height: =142
         Image: ='Softcuit (1)'
         ImagePosition: =ImagePosition.Fill
@@ -10,7 +15,9 @@ HomePage As screen:
         ZIndex: =1
 
     Icon2 As icon.OptionsList:
-        Color: =RGBA(0, 0, 0, 1)
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(244, 244, 244, 1)
         Height: =82
         Icon: =Icon.OptionsList
         Width: =103
@@ -19,9 +26,17 @@ HomePage As screen:
         ZIndex: =3
 
     TextInput1 As text:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        Default: ="Entrada de texto"
+        BorderThickness: =2
+        Color: =RGBA(166, 166, 166, 1)
+        Default: ="BUSCAR "
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        FocusedBorderThickness: =4
         Height: =58
+        HoverBorderColor: =RGBA(32, 54, 71, 1)
+        HoverColor: =RGBA(0, 0, 0, 1)
+        HoverFill: =RGBA(205, 209, 213, 1)
         Size: =20
         Width: =468
         X: =56
@@ -29,8 +44,10 @@ HomePage As screen:
         ZIndex: =4
 
     Icon3 As icon.Search:
-        BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =5
+        Color: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(244, 244, 244, 1)
         Height: =58
         Icon: =Icon.Search
         Width: =72
@@ -39,6 +56,9 @@ HomePage As screen:
         ZIndex: =5
 
     Image4 As image:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
         Height: =58
         Image: ='Canva-logo-1024x1024'
         Width: =86
@@ -47,6 +67,9 @@ HomePage As screen:
         ZIndex: =6
 
     Image5 As image:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
         Height: =60
         Image: =fb_icon_325x325
         Width: =82
@@ -55,6 +78,9 @@ HomePage As screen:
         ZIndex: =7
 
     Image6 As image:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
         Height: =64
         Image: =Youtube_logo
         Width: =60
@@ -63,6 +89,9 @@ HomePage As screen:
         ZIndex: =8
 
     Image7 As image:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
         Height: =118
         Image: =deepl
         Width: =80
@@ -71,6 +100,9 @@ HomePage As screen:
         ZIndex: =9
 
     Image10 As image:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
         Height: =114
         Image: =images
         Width: =60
@@ -79,6 +111,9 @@ HomePage As screen:
         ZIndex: =10
 
     Image11 As image:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
         Height: =192
         Image: =unnamed
         Width: =356
@@ -87,15 +122,21 @@ HomePage As screen:
         ZIndex: =11
 
     Image12 As image:
-        Height: =150
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Height: =137
         Image: =images_1
         ImagePosition: =ImagePosition.Fill
-        Width: =189
-        X: =361
-        Y: =402
+        Width: =200
+        X: =358
+        Y: =421
         ZIndex: =12
 
     Image13 As image:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
         Height: =168
         Image: ='29454'
         ImagePosition: =ImagePosition.Fill
@@ -106,6 +147,8 @@ HomePage As screen:
 
     Image14 As image:
         BorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
         Height: =168
         Image: =descarga
         Width: =232
@@ -114,37 +157,49 @@ HomePage As screen:
         ZIndex: =14
 
     Icon4 As icon.Home:
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(109, 49, 162, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(244, 244, 244, 1)
         Height: =83
         Icon: =Icon.Home
         Width: =84
         X: =56
-        Y: =1043
+        Y: =1025
         ZIndex: =15
 
     Icon5 As icon.Search:
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(255, 255, 0, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(244, 244, 244, 1)
         Height: =68
         Icon: =Icon.Search
         Width: =76
         X: =183
-        Y: =1055
+        Y: =1036
         ZIndex: =16
 
     Icon6 As icon.AddUser:
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(255, 255, 0, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(244, 244, 244, 1)
         Icon: =Icon.AddUser
-        X: =406
-        Y: =1059
+        X: =410
+        Y: =1040
         ZIndex: =17
 
     Icon7 As icon.Message:
+        BorderColor: =RGBA(32, 54, 71, 1)
         Color: =RGBA(109, 49, 162, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(244, 244, 244, 1)
         Height: =70
         Icon: =Icon.Message
         Width: =90
         X: =515
-        Y: =1056
+        Y: =1040
         ZIndex: =18
 
     Circle2 As circle:
@@ -158,6 +213,9 @@ HomePage As screen:
 
     Label1 As label:
         Align: =Align.Center
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
         Height: =66
         Size: =15
         Text: ="Location VPN"
