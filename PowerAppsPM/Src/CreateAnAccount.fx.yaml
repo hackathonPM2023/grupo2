@@ -100,7 +100,7 @@ CreateAnAccount As screen:
         RadiusBottomRight: =30
         RadiusTopLeft: =30
         RadiusTopRight: =30
-        Size: =21
+        Size: =26
         Width: =560
         X: =44
         Y: =763
