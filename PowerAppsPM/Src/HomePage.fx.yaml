@@ -156,3 +156,12 @@ HomePage As screen:
         Y: =1053
         ZIndex: =20
 
+    TextInput3 As text:
+        Default: ="Entrada de texto"
+        Height: =57
+        Size: =21
+        Width: =468
+        X: =56
+        Y: =196
+        ZIndex: =21
+
