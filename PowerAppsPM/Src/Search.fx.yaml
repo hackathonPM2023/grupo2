@@ -137,8 +137,7 @@ Search As screen:
         HoverFill: =RGBA(205, 209, 213, 1)
         Size: =21
         Width: =625
-        X: =15
-        Y: =566
+        Y: =548
         ZIndex: =9
 
     Image26 As image:
@@ -158,7 +157,7 @@ Search As screen:
         Color: =RGBA(0, 0, 0, 1)
         Default: |-
             ="Cuevana 3: Peliculas, series y documentales nuevos en linea. Disfruta de todo el contenido en latino y castellano con toda la información disponible.
-            ‎Cuevana Blog · ‎Películas - Estrenos · ‎Últimas series publicadas · ‎Género terror
+            Cuevana Blog · Películas - Estrenos · Últimas series publicadas · Género terror
             "
         DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
@@ -240,8 +239,8 @@ Search As screen:
         HoverFill: =RGBA(205, 209, 213, 1)
         Size: =21
         Width: =560
-        X: =18
-        Y: =918
+        X: =5
+        Y: =895
         ZIndex: =15
 
     TextInput16 As text:
