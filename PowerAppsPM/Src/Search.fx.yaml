@@ -2,6 +2,22 @@ Search As screen:
     BackgroundImage: =crearcuenta
     LoadingSpinnerColor: =RGBA(100, 118, 132, 1)
 
+    Rectangle2 As rectangle:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =196
+        Width: =640
+        Y: =792
+        ZIndex: =1
+
+    Rectangle1 As rectangle:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =231
+        Width: =640
+        Y: =402
+        ZIndex: =2
+
     Image20 As image:
         BorderColor: =RGBA(32, 54, 71, 1)
         DisabledBorderColor: =RGBA(166, 166, 166, 1)
@@ -11,7 +27,7 @@ Search As screen:
         Width: =244
         X: =396
         Y: =6
-        ZIndex: =1
+        ZIndex: =3
 
     TextInput7 As text:
         BorderColor: =RGBA(32, 54, 71, 1)
@@ -36,7 +52,7 @@ Search As screen:
         Width: =502
         X: =88
         Y: =210
-        ZIndex: =2
+        ZIndex: =4
 
     Image22 As image:
         BorderColor: =RGBA(32, 54, 71, 1)
@@ -47,7 +63,7 @@ Search As screen:
         Width: =107
         X: =18
         Y: =24
-        ZIndex: =3
+        ZIndex: =5
 
     Image23 As image:
         BorderColor: =RGBA(32, 54, 71, 1)
@@ -58,7 +74,7 @@ Search As screen:
         Width: =21
         X: =468
         Y: =227
-        ZIndex: =4
+        ZIndex: =6
 
     Image24 As image:
         BorderColor: =RGBA(32, 54, 71, 1)
@@ -69,26 +85,7 @@ Search As screen:
         Width: =48
         X: =517
         Y: =223
-        ZIndex: =5
-
-    TextInput8 As text:
-        BorderColor: =RGBA(255, 255, 255, 1)
-        BorderThickness: =2
-        Color: =RGBA(0, 0, 0, 1)
-        Default: ="Entrada de texto"
-        DisabledBorderColor: =RGBA(166, 166, 166, 1)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        FocusedBorderThickness: =4
-        FontWeight: =FontWeight.Bold
-        Height: =330
-        HoverBorderColor: =RGBA(32, 54, 71, 1)
-        HoverColor: =RGBA(0, 0, 0, 1)
-        HoverFill: =RGBA(205, 209, 213, 1)
-        Size: =21
-        Width: =640
-        Y: =402
-        ZIndex: =6
+        ZIndex: =7
 
     Image25 As image:
         BorderColor: =RGBA(32, 54, 71, 1)
@@ -98,7 +95,7 @@ Search As screen:
         Image: ='cuevna 3'
         Width: =187
         Y: =429
-        ZIndex: =7
+        ZIndex: =8
 
     TextInput9 As text:
         BorderColor: =RGBA(255, 255, 255, 1)
@@ -117,7 +114,7 @@ Search As screen:
         Width: =225
         X: =171
         Y: =461
-        ZIndex: =8
+        ZIndex: =9
 
     TextInput10 As text:
         BorderColor: =RGBA(255, 255, 255, 1)
@@ -139,7 +136,7 @@ Search As screen:
         Width: =625
         X: =15
         Y: =566
-        ZIndex: =9
+        ZIndex: =10
 
     Image26 As image:
         BorderColor: =RGBA(32, 54, 71, 1)
@@ -150,7 +147,7 @@ Search As screen:
         Width: =48
         X: =565
         Y: =477
-        ZIndex: =10
+        ZIndex: =11
 
     TextInput12 As text:
         BorderColor: =RGBA(255, 255, 255, 1)
@@ -158,7 +155,7 @@ Search As screen:
         Color: =RGBA(0, 0, 0, 1)
         Default: |-
             ="Cuevana 3: Peliculas, series y documentales nuevos en linea. Disfruta de todo el contenido en latino y castellano con toda la información disponible.
-            ‎Cuevana Blog · ‎Películas - Estrenos · ‎Últimas series publicadas · ‎Género terror
+            Cuevana Blog · Películas - Estrenos · Últimas series publicadas · Género terror
             "
         DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
@@ -172,24 +169,6 @@ Search As screen:
         Size: =18
         Width: =640
         Y: =622
-        ZIndex: =11
-
-    TextInput13 As text:
-        BorderColor: =RGBA(255, 255, 255, 1)
-        BorderThickness: =2
-        Color: =RGBA(0, 0, 0, 1)
-        Default: ="Entrada de texto"
-        DisabledBorderColor: =RGBA(166, 166, 166, 1)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        FocusedBorderThickness: =4
-        Height: =344
-        HoverBorderColor: =RGBA(32, 54, 71, 1)
-        HoverColor: =RGBA(0, 0, 0, 1)
-        HoverFill: =RGBA(205, 209, 213, 1)
-        Size: =21
-        Width: =640
-        Y: =792
         ZIndex: =12
 
     Image27 As image:
